@@ -1,6 +1,6 @@
 # QBM-US Methodology
 
-**Version:** 1.0  
+**Version:** 1.1  
 Adopted: 13 August 2026  
 Status: **Versioned** — amendments are made directly by investor instruction and recorded in the Changelog below. No formal Operational Change Register is required (see [QBM-US Investment Charter](QBM_US_Investment_Charter.md#governance-philosophy) for why this differs from QBM).
 
@@ -19,7 +19,23 @@ The following commands trigger the complete US QBM-US funnel:
 
 ## Target market
 
-Default universe: US-listed equities (NYSE and NASDAQ). No index, market-cap or liquidity filter is defined yet — the first scan should state its actual source universe (e.g. S&P 500, Russell 1000, a broader screener) explicitly rather than implying full-market coverage. See Open Items.
+Default universe: US-listed equities (NYSE and NASDAQ), subject to the Universe Filter below. The first scan should still state its actual source list (e.g. S&P 500, Russell 1000, a broader screener) explicitly rather than implying full-market coverage.
+
+## Universe Filter (added v1.1)
+
+Applied before Discovery, to keep low-quality, untradeable and data-poor tickers out of the funnel rather than filtering them out one-by-one during research. This mirrors what QBM itself does in practice on the ASX side (it scans a "top-300 liquid proxy," not the full exchange) rather than trying to genuinely cover the entire market.
+
+A candidate must clear all of the following to enter Discovery:
+
+- **Market capitalisation:** ≥ US$2 billion. Excludes micro/nano-caps, where data quality, audit rigor and public disclosure are typically weakest.
+- **Average daily dollar volume:** ≥ US$5 million. Ensures a position could realistically be entered and exited.
+- **Share price:** ≥ US$5. Excludes penny-stock-adjacent names, which carry disproportionate manipulation and data-quality risk.
+- **Primary listing:** NYSE or NASDAQ. Excludes OTC/pink-sheet tickers.
+- **Security type:** common stock only. Excludes SPACs (pre- and post-merger shells), warrants, rights, units and preferred shares. Foreign private issuers with an NYSE/NASDAQ-listed ADR are included, since the ADR itself trades as an ordinary listed share.
+
+This is a mechanical, objective pre-filter — it does not judge business quality. Business quality, moat, valuation and all other Company Quality questions are still decided at Discovery/Mini/Full QBM as usual; this filter only keeps genuinely untradeable or data-poor tickers from consuming research effort.
+
+Every scan must disclose how many tickers were excluded by this filter and why, the same as any other coverage limitation.
 
 ## Required workflow
 
@@ -32,8 +48,8 @@ Default universe: US-listed equities (NYSE and NASDAQ). No index, market-cap or 
 
 ## Discovery requirements
 
-- Start with the broadest verifiable investable US source universe available.
-- Disclose the source universe, number considered, data date, filters, exclusions and coverage limitations.
+- Start with the broadest verifiable investable US source universe available, then apply the Universe Filter above.
+- Disclose the source universe, number considered, data date, filters (including the Universe Filter's exclusion count), exclusions and coverage limitations.
 - Never claim complete US-market coverage unless every relevant listed security was genuinely reviewed.
 - Permanently exclude new discovery candidates principally involved in weapons manufacturing, gambling, or tobacco.
 - Do not exclude unfamiliar, unfashionable or out-of-portfolio sectors merely for those reasons.
@@ -128,10 +144,11 @@ Do not propose methodology additions because they appear theoretically attractiv
 
 ## Open Items
 
-- Exact US source universe not yet defined (index vs. broader screener) — the first scan should state what it actually covered.
+- Exact US source universe not yet defined (index vs. broader screener) — the first scan should state what it actually covered, after the Universe Filter is applied.
 - No position-sizing or order-execution logic defined.
-- No liquidity/volume filter defined.
+- Universe Filter thresholds (v1.1) are a starting point, not validated against real results yet — revisit once the first scan shows how much they actually cut and whether anything worth keeping got excluded.
 
 ## Changelog
 
+- **v1.1 (13 August 2026):** Added a Universe Filter (market cap ≥ $2B, avg daily dollar volume ≥ $5M, price ≥ $5, NYSE/NASDAQ primary listing, common stock only) applied before Discovery. Investor asked whether junk should be filtered out before the first full scan rather than handled later; agreed doing it up front is cheaper than filtering noise out ticker-by-ticker during research, at the cost of a somewhat arbitrary cutoff that could exclude a genuine small-cap.
 - **v1.0 (13 August 2026):** QBM-US created as an independent system, carrying forward QBM's process, gates, scoring and decision framework as of 13 Aug 2026. Target market changed from ASX to US-listed equities (NYSE/NASDAQ). Fixed ASX benchmark holdings (CSL, RMD, TNE, CDA, CU6) removed from the Portfolio Challenge Test — QBM-US starts with no holdings and compares against whatever is actually held. Governance changed from frozen (Operational Change Register required) to versioned (investor can authorise a change directly, recorded here). ASX-specific amendment history not carried over — QBM-US has none of its own yet.
