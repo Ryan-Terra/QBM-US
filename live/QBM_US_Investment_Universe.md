@@ -2,17 +2,26 @@
 
 Created: 13 August 2026  
 Discovery scan completed: 14 August 2026 (see [screens/QBM_US_Discovery_2026-08-14.md](../screens/QBM_US_Discovery_2026-08-14.md))  
-Mini QBM completed: 14 August 2026 (see [screens/QBM_US_MiniQBM_2026-08-14.md](../screens/QBM_US_MiniQBM_2026-08-14.md))
+Mini QBM completed: 14 August 2026 (see [screens/QBM_US_MiniQBM_2026-08-14.md](../screens/QBM_US_MiniQBM_2026-08-14.md))  
+Full QBM completed: 14 August 2026 (see [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md))
 
 Company IDs are permanent. If a ticker or company name changes, retain the original Company ID and update current metadata separately.
 
 ## Full QBM — active assessments
 
-None yet. The 9 companies below advanced from Mini QBM and are the candidates for the next Full QBM pass.
+9 companies assessed, all referencing Standing CMEA **CMEA-US-2026-08-14-001**. 3 advanced to Add (NVDA, LLY, MA); 6 returned to Continue Monitoring after the Evidence Verification Standard surfaced genuinely new, core-thesis-relevant risk evidence for each. Full reasoning per company: [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md).
 
 | Company ID | Company | Ticker | Assessment ID | Journal ID | Decision | Priority | Allocation range | Review date | Portfolio status | Record status |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | — |
+| QBM-US-COMP-NVDA | Nvidia | NVDA | QBM-US-ASSESS-NVDA-2026-08-14-001 | QBM-US-JOURNAL-NVDA-2026-08-14-001 | Add | Tier 1 | 10-15% | Not yet scheduled | Recommended, not held | Complete |
+| QBM-US-COMP-LLY | Eli Lilly | LLY | QBM-US-ASSESS-LLY-2026-08-14-001 | QBM-US-JOURNAL-LLY-2026-08-14-001 | Add | Tier 1 | 10-15% | Not yet scheduled | Recommended, not held | Complete |
+| QBM-US-COMP-MA | Mastercard | MA | QBM-US-ASSESS-MA-2026-08-14-001 | QBM-US-JOURNAL-MA-2026-08-14-001 | Add | Tier 1 | 10-20% | Not yet scheduled | Recommended, not held | Complete |
+| QBM-US-COMP-HALO | Halozyme | HALO | QBM-US-ASSESS-HALO-2026-08-14-001 | QBM-US-JOURNAL-HALO-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
+| QBM-US-COMP-LRCX | Lam Research | LRCX | QBM-US-ASSESS-LRCX-2026-08-14-001 | QBM-US-JOURNAL-LRCX-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
+| QBM-US-COMP-AVGO | Broadcom | AVGO | QBM-US-ASSESS-AVGO-2026-08-14-001 | QBM-US-JOURNAL-AVGO-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
+| QBM-US-COMP-GOOGL | Alphabet (Class A) | GOOGL | QBM-US-ASSESS-GOOGL-2026-08-14-001 | QBM-US-JOURNAL-GOOGL-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
+| QBM-US-COMP-KLAC | KLA Corporation | KLAC | QBM-US-ASSESS-KLAC-2026-08-14-001 | QBM-US-JOURNAL-KLAC-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
+| QBM-US-COMP-AAPL | Apple Inc. | AAPL | QBM-US-ASSESS-AAPL-2026-08-14-001 | QBM-US-JOURNAL-AAPL-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
 
 ## Mini QBM — current scan records
 
