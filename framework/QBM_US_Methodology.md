@@ -1,6 +1,6 @@
 # QBM-US Methodology
 
-**Version:** 1.1  
+**Version:** 1.2  
 Adopted: 13 August 2026  
 Status: **Versioned** — amendments are made directly by investor instruction and recorded in the Changelog below. No formal Operational Change Register is required (see [QBM-US Investment Charter](QBM_US_Investment_Charter.md#governance-philosophy) for why this differs from QBM).
 
@@ -37,6 +37,22 @@ This is a mechanical, objective pre-filter — it does not judge business qualit
 
 Every scan must disclose how many tickers were excluded by this filter and why, the same as any other coverage limitation.
 
+## Quantitative Pre-Screen (added v1.2)
+
+Applied after the Universe Filter and before genuine Discovery-stage research begins. It exists because clearing the Universe Filter still leaves far more tickers (e.g. 1,313 from the first S&P 1500 pass) than can be genuinely, evidence-based researched in one Discovery pass — QBM's own ASX Discovery scan covered roughly 300. Rather than cutting the source universe arbitrarily or pretending to review companies that were never actually looked at, this step applies QBM's own Investment Principles (durable cash generation, high returns on capital, conservative balance sheets, a business that isn't shrinking) as numeric, mechanical proxies.
+
+A candidate must clear all of the following to advance into Discovery:
+
+- **Profitability:** trailing net margin > 0%.
+- **Free cash flow:** positive (> $0).
+- **Return on equity:** ≥ 10%.
+- **Revenue growth (year-over-year):** ≥ 0% — not shrinking.
+- **Liquidity:** current ratio ≥ 1.0.
+
+This is coarse and imperfect by design — it will miss genuine turnaround stories with temporarily weak numbers, and it cannot see moat, management quality or recurring-revenue character, which remain qualitative Discovery/Mini/Full QBM questions. It is a pre-screen, not a substitute for Company Quality assessment.
+
+Every scan must disclose how many tickers were excluded by this pre-screen and why, the same as the Universe Filter.
+
 ## Required workflow
 
 1. Reference the active Standing CMEA; create an Event Brief only when material new macro evidence warrants testing whether a replacement version is required
@@ -48,8 +64,8 @@ Every scan must disclose how many tickers were excluded by this filter and why, 
 
 ## Discovery requirements
 
-- Start with the broadest verifiable investable US source universe available, then apply the Universe Filter above.
-- Disclose the source universe, number considered, data date, filters (including the Universe Filter's exclusion count), exclusions and coverage limitations.
+- Start with the broadest verifiable investable US source universe available, then apply the Universe Filter and Quantitative Pre-Screen above.
+- Disclose the source universe, number considered, data date, filters (including the Universe Filter's and Quantitative Pre-Screen's exclusion counts), exclusions and coverage limitations.
 - Never claim complete US-market coverage unless every relevant listed security was genuinely reviewed.
 - Permanently exclude new discovery candidates principally involved in weapons manufacturing, gambling, or tobacco.
 - Do not exclude unfamiliar, unfashionable or out-of-portfolio sectors merely for those reasons.
@@ -144,11 +160,12 @@ Do not propose methodology additions because they appear theoretically attractiv
 
 ## Open Items
 
-- Exact US source universe not yet defined (index vs. broader screener) — the first scan should state what it actually covered, after the Universe Filter is applied.
 - No position-sizing or order-execution logic defined.
 - Universe Filter thresholds (v1.1) are a starting point, not validated against real results yet — revisit once the first scan shows how much they actually cut and whether anything worth keeping got excluded.
+- Quantitative Pre-Screen thresholds (v1.2) are a starting point too, and will systematically miss turnaround-story candidates by design — revisit once the first scan shows the resulting longlist size and quality.
 
 ## Changelog
 
+- **v1.2 (13 August 2026):** Added a Quantitative Pre-Screen (profitable, positive free cash flow, ROE ≥ 10%, revenue growth ≥ 0%, current ratio ≥ 1.0) applied after the Universe Filter and before Discovery. Investor asked how to narrow the 1,313-ticker Universe-Filter result further rather than either running Discovery on all of it or cutting the source index arbitrarily; agreed a numeric proxy for QBM's own Investment Principles was more defensible than either.
 - **v1.1 (13 August 2026):** Added a Universe Filter (market cap ≥ $2B, avg daily dollar volume ≥ $5M, price ≥ $5, NYSE/NASDAQ primary listing, common stock only) applied before Discovery. Investor asked whether junk should be filtered out before the first full scan rather than handled later; agreed doing it up front is cheaper than filtering noise out ticker-by-ticker during research, at the cost of a somewhat arbitrary cutoff that could exclude a genuine small-cap.
 - **v1.0 (13 August 2026):** QBM-US created as an independent system, carrying forward QBM's process, gates, scoring and decision framework as of 13 Aug 2026. Target market changed from ASX to US-listed equities (NYSE/NASDAQ). Fixed ASX benchmark holdings (CSL, RMD, TNE, CDA, CU6) removed from the Portfolio Challenge Test — QBM-US starts with no holdings and compares against whatever is actually held. Governance changed from frozen (Operational Change Register required) to versioned (investor can authorise a change directly, recorded here). ASX-specific amendment history not carried over — QBM-US has none of its own yet.
