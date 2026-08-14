@@ -49,14 +49,34 @@ The dominant reason by far is market cap — expected, since S&P 400/600 (MidCap
 
 **Raw data, committed permanently:** [QBM_US_Universe_Filter_2026-08-13_filtered.csv](QBM_US_Universe_Filter_2026-08-13_filtered.csv), [QBM_US_Universe_Filter_2026-08-13_excluded.csv](QBM_US_Universe_Filter_2026-08-13_excluded.csv).
 
-## Open question: 1,313 is still not a Discovery-stage number
+## Quantitative Pre-Screen (v1.2) — second pass, same day
 
-QBM's own ASX scan worked from a "top-300 liquid proxy," and Discovery on that already meant reviewing every one of those 300 with real, evidence-based research — no invented data. 1,313 is roughly 4.4x that. Genuinely researching 1,313 companies one by one isn't practical in any single pass, and mechanically claiming Discovery-level coverage without doing the work would violate QBM-US's own evidence philosophy.
+Applied to the 1,313 tickers that cleared the Universe Filter, per [QBM_US_Methodology.md v1.2](../framework/QBM_US_Methodology.md#quantitative-pre-screen-added-v12): profitable (net margin > 0%), free cash flow positive, ROE ≥ 10%, revenue growth ≥ 0%, current ratio ≥ 1.0.
 
-This isn't resolved yet. Options worth considering once the investor is back, not decided here:
+| | Count |
+|---|---:|
+| Input (post Universe Filter) | 1,313 |
+| **Passed (Discovery-eligible)** | **454** |
+| Excluded | 859 |
 
-1. Add a further **mechanical, quantitative** pre-screen (e.g. profitability, revenue growth, debt levels, ROE) using data already available from yfinance, to cut 1,313 down to a genuinely reviewable longlist before any qualitative research starts.
-2. Work through the 1,313 in **batches** over multiple sessions rather than one pass, disclosing partial coverage honestly each time (the Methodology's "Accuracy and progressive coverage" section already allows this).
-3. Narrow the source universe further (e.g. S&P 500 only, or S&P 500 + S&P 400) rather than starting from the full S&P 1500.
+### Exclusion breakdown (a ticker can trigger more than one reason)
 
-No Discovery-stage research has started. This filter step only establishes what's eligible to be researched.
+| Reason | Count |
+|---|---:|
+| ROE below 10% | 511 |
+| Current ratio below 1.0 | 394 |
+| Free cash flow not positive | 274 |
+| Revenue growth negative | 187 |
+| Net margin not positive | 117 |
+
+### Sector spread of the 454 survivors
+
+Industrials 125, Information Technology 66, Health Care 61, Consumer Discretionary 59, Financials 48, Materials 27, Consumer Staples 25, Energy 20, Communication Services 13, Real Estate 10 (remaining sectors smaller).
+
+**Known caveat, disclosed rather than hidden:** "current ratio" is not a meaningful metric for banks and insurers, which don't hold a conventional current/non-current balance-sheet split — the 48 Financials that passed may be under-representing genuinely good financial-sector candidates that got excluded on a metric that doesn't apply cleanly to their business model. Worth a second look before treating any Financials exclusion in this pass as final.
+
+**Raw data, committed permanently:** [QBM_US_Universe_Filter_2026-08-13_prescreened.csv](QBM_US_Universe_Filter_2026-08-13_prescreened.csv), [QBM_US_Universe_Filter_2026-08-13_prescreen_excluded.csv](QBM_US_Universe_Filter_2026-08-13_prescreen_excluded.csv).
+
+## Where this leaves Discovery
+
+454 is much closer to workable than 1,313, but still roughly 1.5x the ~300 companies QBM's own ASX Discovery scan actually covered with genuine research. No Discovery-stage research has started — both steps above are still mechanical, no-judgment filters. Whether to work through all 454, batch it across sessions, or narrow further is a decision for the investor, not made here.
