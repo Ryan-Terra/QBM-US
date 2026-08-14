@@ -1,13 +1,14 @@
 # QBM-US Investment Universe
 
 Created: 13 August 2026  
-Discovery scan completed: 14 August 2026 (see [screens/QBM_US_Discovery_2026-08-14.md](../screens/QBM_US_Discovery_2026-08-14.md))
+Discovery scan completed: 14 August 2026 (see [screens/QBM_US_Discovery_2026-08-14.md](../screens/QBM_US_Discovery_2026-08-14.md))  
+Mini QBM completed: 14 August 2026 (see [screens/QBM_US_MiniQBM_2026-08-14.md](../screens/QBM_US_MiniQBM_2026-08-14.md))
 
 Company IDs are permanent. If a ticker or company name changes, retain the original Company ID and update current metadata separately.
 
 ## Full QBM — active assessments
 
-None yet.
+None yet. The 9 companies below advanced from Mini QBM and are the candidates for the next Full QBM pass.
 
 | Company ID | Company | Ticker | Assessment ID | Journal ID | Decision | Priority | Allocation range | Review date | Portfolio status | Record status |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -15,15 +16,42 @@ None yet.
 
 ## Mini QBM — current scan records
 
-None yet. The 40 Discovery-longlist companies below are the candidates for the next Mini QBM pass.
+25 companies assessed (top 25 of the 40-company Discovery longlist by Discovery Score; GOOG collapsed into GOOGL as the same company, backfilled with AAMI at rank 26). Full evidence, reasoning and decision per company: [screens/QBM_US_MiniQBM_2026-08-14.md](../screens/QBM_US_MiniQBM_2026-08-14.md).
 
-| Company ID | Company | Ticker | Coverage status | Priority | Portfolio status | Record status |
+| Company ID | Company | Ticker | Mini QBM Decision | Priority | Portfolio status | Record status |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — |
+| QBM-US-COMP-NVDA | Nvidia | NVDA | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-LLY | Eli Lilly | LLY | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-HALO | Halozyme | HALO | Advance to Full QBM | Tier 2 | Candidate | Complete |
+| QBM-US-COMP-LRCX | Lam Research | LRCX | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-AVGO | Broadcom | AVGO | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-GOOGL | Alphabet (Class A) | GOOGL | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-MA | Mastercard | MA | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-KLAC | KLA Corporation | KLAC | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-AAPL | Apple Inc. | AAPL | Advance to Full QBM | Tier 1 | Candidate | Complete |
+| QBM-US-COMP-APP | AppLovin | APP | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-MU | Micron Technology | MU | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-WDC | Western Digital | WDC | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-PLTR | Palantir Technologies | PLTR | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-TER | Teradyne | TER | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-ANET | Arista Networks | ANET | Continue Monitoring | Tier 2 | Watchlist | Complete |
+| QBM-US-COMP-SNDK | Sandisk | SNDK | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-TGTX | TG Therapeutics | TGTX | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-LQDA | Liquidia Corporation | LQDA | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-INSW | International Seaways | INSW | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-SEZL | Sezzle | SEZL | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-STX | Seagate Technology | STX | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-DAVE | Dave, Inc. | DAVE | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-FTNT | Fortinet | FTNT | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-HLNE | Hamilton Lane | HLNE | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-AAMI | Acadian Asset Management | AAMI | Not advanced | — | Not advanced | Complete |
+| QBM-US-COMP-GOOG | Alphabet (Class C) | GOOG | Not separately assessed — same company as GOOGL | — | Duplicate | N/A |
 
 ## Discovery — current scan records
 
 40 companies advanced from a 1,506-ticker S&P 1500 source universe, via the Universe Filter (v1.1), Quantitative Pre-Screen (v1.2), ethical exclusion, and a quantitative Discovery ranking. Full detail, methodology and known limitations: [screens/QBM_US_Discovery_2026-08-14.md](../screens/QBM_US_Discovery_2026-08-14.md).
+
+**Status note:** the top 25 (by Discovery Score, GOOG collapsed into GOOGL) advanced to Mini QBM — see that section above for current status. The remaining 15 (ranks 27–40 below, plus GOOG) are still Discovery-only; they have not been individually researched yet.
 
 | Company ID | Company | Ticker | Discovery Rank | Coverage status | Record status |
 |---|---|---|---:|---|---|
