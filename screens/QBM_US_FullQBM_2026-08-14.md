@@ -1,6 +1,8 @@
 # QBM-US Full QBM — 14 August 2026
 
-Methodology version: **1.2**. Input: the 9 Mini QBM finalists — NVDA, LLY, HALO, LRCX, AVGO, GOOGL, MA, KLAC, AAPL. See [screens/QBM_US_MiniQBM_2026-08-14.md](QBM_US_MiniQBM_2026-08-14.md) for the Mini QBM record each of these builds on.
+**CORRECTED 14 August 2026 (same day, after this report was first written):** the investor stated a new Thematic Exclusion — avoid AI stocks and companies with material AI-industry exposure, applied broadly, per Methodology v1.3 and UserProfile.md. This retroactively changes the outcome for **NVDA (Add → Excluded — investor preference)**, and for **LRCX, AVGO, GOOGL, KLAC (Continue Monitoring → Excluded — investor preference)**. The Company Quality / Investment Attractiveness / Portfolio Fit reasoning below is preserved unedited and remains valid on its own terms — these companies were not judged to be poor businesses; the investor chose to avoid the theme regardless of quality. See `history/QBM_US_Portfolio_Timeline.md` (14 Aug 2026, "Thematic Exclusion applied") for the full retroactive reclassification across Full QBM, Mini QBM and Discovery-only names. **LLY and MA are unaffected — both remain Add.** HALO remains Continue Monitoring for its own, separate, non-AI reason (patent erosion).
+
+Methodology version: **1.2 at the time of writing** (now 1.3 — see correction notice above). Input: the 9 Mini QBM finalists — NVDA, LLY, HALO, LRCX, AVGO, GOOGL, MA, KLAC, AAPL. See [screens/QBM_US_MiniQBM_2026-08-14.md](QBM_US_MiniQBM_2026-08-14.md) for the Mini QBM record each of these builds on.
 
 Standing CMEA referenced: **CMEA-US-2026-08-14-001** (adopted today, alongside this scan — see [live/QBM_US_Standing_CMEA.md](../live/QBM_US_Standing_CMEA.md)).
 
@@ -244,9 +246,11 @@ QBM-US holds no current positions (100% cash; deployable capital amount not yet 
 
 ## Executive Committee Summary
 
+**As originally written (14 Aug 2026, before the Thematic Exclusion below):**
+
 | Company | Investment Decision | Implementation Readiness | Evidence Strength | Decision Confidence |
 |---|---|---|---|---|
-| NVDA | **Add** | Ready with Considerations | Medium-High | Medium |
+| NVDA | Add | Ready with Considerations | Medium-High | Medium |
 | LLY | **Add** | Ready with Considerations | Medium-High | Medium |
 | MA | **Add** | Ready | High | Medium-High |
 | HALO | Continue Monitoring | Not Applicable | Medium | Medium |
@@ -256,7 +260,21 @@ QBM-US holds no current positions (100% cash; deployable capital amount not yet 
 | KLAC | Continue Monitoring | Not Applicable | Medium-High | Medium |
 | AAPL | Continue Monitoring | Not Applicable | Medium-High | Medium |
 
-**3 of 9 finalists clear Full QBM this round: NVDA, LLY, MA.** All three span different sectors (IT/AI infrastructure, Health Care, Financials/payments), so even a small initial position wouldn't be concentrated in one theme.
+**As corrected (same day) — investor Thematic Exclusion applied (Methodology v1.3):**
+
+| Company | Investment Decision | Reason for change |
+|---|---|---|
+| NVDA | **Excluded — investor preference (AI exposure)** | Was Add on the merits; investor chose to avoid the AI theme regardless |
+| LLY | **Add — unchanged** | Not AI-industry exposed |
+| MA | **Add — unchanged** | Not AI-industry exposed |
+| HALO | Continue Monitoring — unchanged | Not AI-industry exposed; remains Continue Monitoring for its own patent-erosion reason |
+| LRCX | **Excluded — investor preference (AI exposure)** | Was Continue Monitoring on the merits |
+| AVGO | **Excluded — investor preference (AI exposure)** | Was Continue Monitoring on the merits |
+| GOOGL | **Excluded — investor preference (AI exposure)** | Was Continue Monitoring on the merits |
+| KLAC | **Excluded — investor preference (AI exposure)** | Was Continue Monitoring on the merits |
+| AAPL | Continue Monitoring — unchanged | Not primarily AI-capex exposed (see reasoning in `history/QBM_US_Portfolio_Timeline.md`) |
+
+**2 of 9 finalists clear Full QBM after the Thematic Exclusion: LLY, MA.** Both span different sectors (Health Care, Financials/payments). The original "3 of 9... IT/AI infrastructure, Health Care, Financials/payments" framing below is preserved as it was written, before the exclusion existed — it is now superseded by the table above, not deleted.
 
 **6 of 9 were pulled back to Continue Monitoring specifically because the Evidence Verification Standard surfaced genuinely new, core-thesis-relevant evidence** — not because a rigid rule downgraded anything with any negative news. In each case, the new evidence hit the *specific* argument that had justified advancement at Mini QBM: HALO's patent moat had already been legally eroded (PTAB rulings); LRCX's "hard to replicate" duopoly claim now has a credible Chinese competitor being evaluated by non-Chinese blue-chip customers; AVGO's balance-sheet conservatism now carries a credit-desk-flagged $42B exposure via an off-balance-sheet AI-financing structure; GOOGL's "moat extending" thesis was directly contradicted by a senior AI-talent exodus and a delayed flagship model; KLAC's "relatively insulated" framing was shown to understate the real magnitude of China exposure; AAPL's legal posture was materially worse than understood (active, not paused) alongside a real product-execution red flag.
 

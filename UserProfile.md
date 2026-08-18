@@ -39,6 +39,14 @@ Do not recommend businesses whose primary activities materially involve:
 
 Where exposure is indirect, incidental or ambiguous, identify it clearly before treating the company as eligible.
 
+## Thematic exclusions (distinct from ethical exclusions)
+
+Added 14 August 2026, following QBM-US's first Full QBM pass.
+
+- Avoid AI stocks and stocks materially affected by the AI industry — investor's personal view that current AI-infrastructure spending may be a bubble at risk of popping. Applied **broadly**: not just companies whose core product is AI (e.g. AI chip designers), but any company with material revenue or earnings exposure to the AI-infrastructure buildout, including semiconductor-equipment suppliers to AI chipmakers and hyperscalers whose capex or cloud revenue is substantially AI-driven.
+- This is a **portfolio-construction preference, not a quality judgment or a permanent ethical exclusion**. A company excluded here may have passed QBM-US's Company Quality/Investment Attractiveness assessment on the merits — the exclusion reflects the investor's own risk view on the AI theme, not a finding that the business is poor. Unlike the ethical exclusions above, this preference could reasonably change if the investor's view on AI-sector risk changes; it is not treated as permanent.
+- Where AI-industry exposure is indirect, partial or ambiguous, identify it clearly and disclose the judgment call rather than silently including or excluding the company.
+
 ## Decision-making preferences
 
 - Quality comes before momentum.

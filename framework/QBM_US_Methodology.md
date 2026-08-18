@@ -1,6 +1,6 @@
 # QBM-US Methodology
 
-**Version:** 1.2  
+**Version:** 1.3  
 Adopted: 13 August 2026  
 Status: **Versioned** — amendments are made directly by investor instruction and recorded in the Changelog below. No formal Operational Change Register is required (see [QBM-US Investment Charter](QBM_US_Investment_Charter.md#governance-philosophy) for why this differs from QBM).
 
@@ -154,6 +154,14 @@ Permanently exclude new discovery candidates principally involved in:
 
 Where exposure is indirect, incidental or ambiguous, identify it clearly before treating the company as eligible.
 
+## Thematic exclusions (added v1.3)
+
+Distinct from the ethical exclusions above — see [UserProfile.md](../UserProfile.md#thematic-exclusions-distinct-from-ethical-exclusions) for the full statement and rationale.
+
+Exclude candidates with material revenue or earnings exposure to the AI-infrastructure buildout — applied broadly (AI chip/software companies, semiconductor-equipment suppliers to AI chipmakers, and hyperscalers whose capex or cloud revenue is substantially AI-driven), not narrowly to pure-play AI companies only.
+
+This is an investor risk-view preference, not a permanent ethical exclusion — it may be revisited if the investor's view on AI-sector risk changes, unlike the ethical exclusions above. Apply it at Discovery stage going forward so AI-exposed candidates are screened out before consuming Mini/Full QBM research effort, the same way the Universe Filter and Quantitative Pre-Screen already narrow the funnel mechanically.
+
 ## Operational maturity control
 
 Do not propose methodology additions because they appear theoretically attractive. Every future change should arise from a real investment decision, validation finding, recurring operational weakness or demonstrated data-quality issue — but unlike QBM, it does not need a formal Operational Change Register entry to take effect. Record it as a new version below with a one-line reason.
@@ -163,9 +171,11 @@ Do not propose methodology additions because they appear theoretically attractiv
 - No position-sizing or order-execution logic defined.
 - Universe Filter thresholds (v1.1) are a starting point, not validated against real results yet — revisit once the first scan shows how much they actually cut and whether anything worth keeping got excluded.
 - Quantitative Pre-Screen thresholds (v1.2) are a starting point too, and will systematically miss turnaround-story candidates by design — revisit once the first scan shows the resulting longlist size and quality.
+- The Thematic Exclusion (v1.3) has not yet been applied at Discovery stage in a live scan — it was applied retroactively to the 14 Aug 2026 results. First real test is the next fresh Discovery scan.
 
 ## Changelog
 
+- **v1.3 (14 August 2026):** Added a Thematic Exclusion for AI-industry exposure, applied broadly (see UserProfile.md). Investor stated a personal view that AI-infrastructure spending may be a bubble and asked to avoid the theme entirely, distinct from the permanent ethical exclusions — applied retroactively to the 14 Aug 2026 Full QBM/Mini QBM results (see history/QBM_US_Portfolio_Timeline.md) and going forward at Discovery stage.
 - **v1.2 (13 August 2026):** Added a Quantitative Pre-Screen (profitable, positive free cash flow, ROE ≥ 10%, revenue growth ≥ 0%, current ratio ≥ 1.0) applied after the Universe Filter and before Discovery. Investor asked how to narrow the 1,313-ticker Universe-Filter result further rather than either running Discovery on all of it or cutting the source index arbitrarily; agreed a numeric proxy for QBM's own Investment Principles was more defensible than either.
 - **v1.1 (13 August 2026):** Added a Universe Filter (market cap ≥ $2B, avg daily dollar volume ≥ $5M, price ≥ $5, NYSE/NASDAQ primary listing, common stock only) applied before Discovery. Investor asked whether junk should be filtered out before the first full scan rather than handled later; agreed doing it up front is cheaper than filtering noise out ticker-by-ticker during research, at the cost of a somewhat arbitrary cutoff that could exclude a genuine small-cap.
 - **v1.0 (13 August 2026):** QBM-US created as an independent system, carrying forward QBM's process, gates, scoring and decision framework as of 13 Aug 2026. Target market changed from ASX to US-listed equities (NYSE/NASDAQ). Fixed ASX benchmark holdings (CSL, RMD, TNE, CDA, CU6) removed from the Portfolio Challenge Test — QBM-US starts with no holdings and compares against whatever is actually held. Governance changed from frozen (Operational Change Register required) to versioned (investor can authorise a change directly, recorded here). ASX-specific amendment history not carried over — QBM-US has none of its own yet.

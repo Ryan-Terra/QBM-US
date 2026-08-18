@@ -25,30 +25,35 @@ No equity positions are currently held. Scans proceed as fresh scans with no ass
 | External-capital ceiling | Not yet specified by the investor |
 | Investor-reported performance snapshot | Not applicable — no open positions |
 
-## Recommended, not yet held (14 August 2026 Full QBM)
+## Excluded — investor preference, AI-industry exposure (added 14 August 2026)
 
-Three companies received an Add decision at Full QBM but are not current holdings — capital deployment awaits the investor specifying deployable cash. See [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md) for full reasoning.
+Same day the Full QBM results below were first recorded, the investor added a Thematic Exclusion (avoid AI-industry exposure, broadly applied — bubble-risk concern, see UserProfile.md). This retroactively excludes NVDA from the Add list below, and LRCX, AVGO, GOOGL, KLAC from Continue Monitoring. **This is a portfolio-construction preference, not a quality finding** — NVDA's Company Quality assessment (High, strongest moat of any Full QBM finalist) is preserved below unedited; the investor chose to avoid the theme regardless. Full consolidated exclusion list (14 companies, including Mini QBM and Discovery-only names): [live/QBM_US_Investment_Universe.md](QBM_US_Investment_Universe.md#excluded--investor-preference-ai-industry-exposure-added-14-aug-2026).
 
-### Nvidia Corporation (NVDA)
+### Nvidia Corporation (NVDA) — EXCLUDED
 
 - Company ID: QBM-US-COMP-NVDA
 
-#### 14 August 2026 — ACTIVE
+#### 14 August 2026 — SUPERSEDED SAME DAY BY THEMATIC EXCLUSION
 
 - Assessment ID: QBM-US-ASSESS-NVDA-2026-08-14-001
 - Journal ID: QBM-US-JOURNAL-NVDA-2026-08-14-001
 - Coverage: Full QBM
-- Decision: Add
-- Priority: Tier 1
-- Company Quality: High
+- **Original Decision: Add** (preserved for audit — this was the genuine Full QBM outcome before the Thematic Exclusion existed)
+- **Current status: Excluded — investor preference (AI-industry exposure)**
+- Priority: Tier 1 (as originally assessed)
+- Company Quality: High — strongest moat of any Full QBM finalist (CUDA ecosystem lock-in, low leverage, multi-year demand visibility)
 - Investment Attractiveness: Reasonable for the growth on offer (forward P/E ~22.5x); real, escalating legal/regulatory cluster disclosed (Taiwan chip-smuggling detentions, revived securities class action, unverified DOJ antitrust status)
-- Portfolio Fit: IT/AI infrastructure — concentrates with LRCX/AVGO/KLAC if more than one added
+- Portfolio Fit: IT/AI infrastructure — this is precisely the exposure the new Thematic Exclusion is designed to avoid
 - Confidence: Medium
-- Allocation range: 10-15%
-- Implementation Readiness: Ready with Considerations — re-verify legal/regulatory cluster before capital deployment
+- Allocation range: Not applicable — excluded
+- Implementation Readiness: Not applicable — excluded
 - Assessment Status: Full QBM
-- Current Assessment Status: Current
+- Current Assessment Status: Excluded (investor preference, not a quality finding)
 - Research Record Completeness: Complete
+
+## Recommended, not yet held (14 August 2026 Full QBM)
+
+Two companies received an Add decision at Full QBM and remain Add after the Thematic Exclusion (neither has AI-industry exposure) — not current holdings, capital deployment awaits the investor specifying deployable cash. See [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md) for full reasoning.
 
 ### Eli Lilly and Company (LLY)
 
@@ -94,4 +99,4 @@ Three companies received an Add decision at Full QBM but are not current holding
 
 ## Continue Monitoring (14 August 2026 Full QBM)
 
-Six companies returned to Continue Monitoring after the Evidence Verification Standard surfaced genuinely new, core-thesis-relevant risk evidence for each: HALO (QBM-US-COMP-HALO), LRCX (QBM-US-COMP-LRCX), AVGO (QBM-US-COMP-AVGO), GOOGL (QBM-US-COMP-GOOGL), KLAC (QBM-US-COMP-KLAC), AAPL (QBM-US-COMP-AAPL). Assessment and Journal IDs follow the same `QBM-US-ASSESS-[TICKER]-2026-08-14-001` / `QBM-US-JOURNAL-[TICKER]-2026-08-14-001` pattern. Full reasoning per company: [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md).
+Two companies remain Continue Monitoring on their own, non-AI-related evidence: HALO (QBM-US-COMP-HALO — patent erosion), AAPL (QBM-US-COMP-AAPL — App Store litigation posture and product-execution concerns; not primarily AI-capex exposed). Three further Full QBM Continue Monitoring companies (LRCX, AVGO, GOOGL, KLAC) were reclassified to Excluded — investor preference above, since their Continue Monitoring reasoning was itself AI-exposure-related. Assessment and Journal IDs follow the same `QBM-US-ASSESS-[TICKER]-2026-08-14-001` / `QBM-US-JOURNAL-[TICKER]-2026-08-14-001` pattern. Full reasoning per company: [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md).
