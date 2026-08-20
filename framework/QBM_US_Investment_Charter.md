@@ -1,9 +1,9 @@
 # QBM-US Investment Charter
 
-**Version:** 1.5  
+**Version:** 1.6  
 **Status:** Permanent  
 **Date Adopted:** 13 August 2026  
-**Last Amended:** 20 August 2026 (ATH Proximity Rule widened to 10% — see [Amendment History](#amendment-history))
+**Last Amended:** 20 August 2026 (Valuation Ceiling added — see [Amendment History](#amendment-history))
 
 ## Purpose
 
@@ -259,6 +259,16 @@ This check must be performed directly (a current-price query against 52-week-hig
 
 **Threshold history:** set at 5% on first adoption (20 August 2026), widened to 10% the same day on direct investor instruction ("5% isn't enough"). Neither version is an immutable constant — either may be revisited by direct investor instruction, the same way every other numeric threshold in this Methodology can be. The threshold change did not alter the outcome for the current target portfolio: MA (4.26% below its all-time high) and XNCR (0.5% below its 52-week high) both already failed the 5% band and remain Await Better Entry; PTCT (17.0% below its 52-week high) clears both the 5% and the 10% band and remains Ready with Considerations. The practical effect of widening to 10% is on candidates not yet assessed — a materially larger band of "too close to the top to call Ready" going forward.
 
+### Valuation Ceiling (added v1.6, 20 August 2026)
+
+The ATH Proximity Rule checks a position against its own price history. It does not check a position against what the market's own analyst community currently thinks it is worth — a stock can sit well below its 52-week high and still be priced meaningfully above where informed third-party opinion puts fair value. Both are real, independent ways for Quality Before Momentum to be violated at the entry point, and QBM-US shall check both, separately.
+
+**QBM-US shall not rate a position's Implementation Readiness as Ready — or Ready with Considerations — when the current price sits more than 20% above the average analyst consensus 12-month price target.** This is a hard floor, checked directly (current price against the average consensus target, sourced and dated the same way the Evidence Verification Standard's price check already is), independent of the ATH Proximity Rule — a candidate can clear one check and fail the other, and both must be disclosed regardless of outcome.
+
+Where analyst coverage is too thin, too new, or too dispersed for a genuine consensus to exist — common among small/mid-cap and early-commercial biotech names, where a handful of analysts can produce wildly different targets built on different clinical-trial-outcome assumptions — QBM-US shall state this explicitly as a data gap rather than force a number. The ceiling does not apply when no genuine consensus exists; an absent check is not treated as a pass.
+
+This rule was adopted alongside, not instead of, a relaxation elsewhere in the same Methodology revision (the Insider Ownership Screen's near-miss provision and the Discovery longlist depth-widening rule) — QBM-US tightens and loosens different parts of its funnel independently, based on what the evidence from real application actually shows, not as a package deal that must net to the same overall strictness.
+
 ## Governing Hierarchy
 
 1. QBM-US Investment Charter
@@ -284,6 +294,7 @@ A Charter amendment requires clear evidence that the change materially improves 
 
 ## Amendment History
 
+- **v1.6 (20 August 2026):** Added the [Valuation Ceiling](#valuation-ceiling-added-v16-20-august-2026) — a second, independent hard floor on Implementation Readiness alongside the ATH Proximity Rule: no Ready/Ready with Considerations rating when current price sits more than 20% above the average analyst consensus target. Investor asked for recommendations that either relax rules or raise the bar further; this was one of two "raise the bar" recommendations built (the other, a Mini QBM red-flag adverse-event scan, is Methodology-only — see Methodology v1.18). Applied retroactively to the 21 standing Add decisions — see [screens/QBM_US_ValuationCeiling_2026-08-20.md](../screens/QBM_US_ValuationCeiling_2026-08-20.md).
 - **v1.5 (20 August 2026):** Widened the [ATH Proximity Rule](#ath-proximity-rule-added-v14-20-august-2026-widened-same-day) from 5% to 10% on direct investor instruction ("5% isn't enough"). No change to today's target-portfolio outcome — MA and XNCR were already well inside 5%, PTCT clears both bands with room to spare — but the rule is now materially stricter for future candidates.
 - **v1.4 (20 August 2026):** Added the [ATH Proximity Rule](#ath-proximity-rule-added-v14-20-august-2026) — a hard floor (not just disclosure) preventing a Ready/Ready with Considerations rating within 5% of a position's 52-week or all-time high. Directly triggered by a real error: XNCR was rated Ready the previous day on an incorrect trailing-return figure; the investor's response was to ask for a rule, not just a fix to that one number. Applied retroactively, it also caught MA (4.26% below its all-time high) — disclosed honestly rather than tuned to avoid the uncomfortable result. See [screens/QBM_US_ATHRule_2026-08-20.md](../screens/QBM_US_ATHRule_2026-08-20.md).
 - **v1.3 (19 August 2026):** Added [Portfolio Concentration](#portfolio-concentration-added-v13-19-august-2026) under Portfolio Philosophy. Investor stated directly: 5-8 holdings, no position below 10%, sized in 10/15/20% tiers — "go hard or go home." This replaces the continuous market-cap-tier position-sizing bands added the same day (Methodology v1.7) with discrete conviction tiers, and requires QBM-US to select a concentrated subset of its standing Add list rather than sizing all of them. See [screens/QBM_US_ConcentratedPortfolio_2026-08-19.md](../screens/QBM_US_ConcentratedPortfolio_2026-08-19.md) for the resulting construction.

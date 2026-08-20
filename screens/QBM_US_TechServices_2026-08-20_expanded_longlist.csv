@@ -1,0 +1,18 @@
+overall_rank,ticker,longName,GICS Sub-Industry,Index,marketCap_20aug,price_20aug,returnOnEquity,profitMargins,revenueGrowth,currentRatio,freeCashflow,discovery_score,ai_crypto_flag
+37,EPAM,"EPAM Systems, Inc.",IT Consulting & Other Services,S&P 600 (SmallCap),5538894336,107.37,0.111770004,0.07151,0.045,2.755,650156096.0,0.425531914893617,EXCLUDED - AI-infrastructure thematic (see note)
+38,NOVT,Novanta Inc.,Electronic Equipment & Instruments,S&P 400 (MidCap),5519124992,145.94,0.051090002,0.05998,0.103,4.569,118383248.0,0.400709219858156,"Reviewed, no material AI/crypto exposure found"
+39,PLUS,ePlus inc.,Technology Distributors,S&P 600 (SmallCap),2262896640,86.53,0.11698,0.04914,0.01,2.131,39345124.0,0.3829787234042554,EXCLUDED - AI-infrastructure thematic (see note)
+40,BL,"BlackLine, Inc.",Application Software,S&P 600 (SmallCap),1826877312,31.43,0.070300005,0.047480002,0.092,1.721,138621248.0,0.3687943262411347,"Reviewed, no material AI/crypto exposure found"
+41,MIR,"Mirion Technologies, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),3884987392,15.6,0.01511,0.0239,0.197,3.198,115362496.0,0.3617021276595745,"Reviewed, no material AI/crypto exposure found"
+42,BHE,"Benchmark Electronics, Inc.",Electronic Manufacturing Services,S&P 600 (SmallCap),2640833280,73.52,0.047810003,0.018860001,0.177,1.993,136417248.0,0.3546099290780142,"Reviewed, no material AI/crypto exposure found"
+43,DBD,"Diebold Nixdorf, Incorporated",Electronic Equipment & Instruments,S&P 600 (SmallCap),2288678912,67.42,0.10944,0.028719999,0.017,1.267,312012512.0,0.3120567375886525,"Reviewed, no material AI/crypto exposure found"
+44,SCSC,"ScanSource, Inc.",Technology Distributors,S&P 600 (SmallCap),1045087168,51.42,0.08113,0.02377,0.088,1.862,107137000.0,0.3120567375886525,"Reviewed, no material AI/crypto exposure found"
+45,VSH,"Vishay Intertechnology, Inc.",Electronic Components,S&P 600 (SmallCap),4901998080,31.96,0.01134,0.00856,0.166,1.802,14999875.0,0.2907801418439716,"Reviewed, no material AI/crypto exposure found"
+46,IPGP,IPG Photonics Corporation,Electronic Manufacturing Services,S&P 400 (MidCap),3249907712,76.57,0.01302,0.02577,0.111,6.179,48475500.0,0.2765957446808511,"Reviewed, no material AI/crypto exposure found"
+47,CXM,"Sprinklr, Inc.",Application Software,S&P 600 (SmallCap),1670051200,7.13,0.05079,0.03289,0.068,1.434,130164128.0,0.2624113475177305,"Reviewed, no material AI/crypto exposure found"
+48,BILL,"BILL Holdings, Inc.",Application Software,S&P 400 (MidCap),4751759872,47.71,4.0000003e-05,0.0001,0.135,1.661,167608256.0,0.2482269503546099,"Reviewed, no material AI/crypto exposure found"
+49,ROG,Rogers Corporation,Electronic Components,S&P 600 (SmallCap),2314598144,129.68,0.02596,0.03749,0.069,3.988,99825000.0,0.2482269503546099,"Reviewed, no material AI/crypto exposure found"
+50,CRSR,"Corsair Gaming, Inc.","Technology Hardware, Storage & Peripherals",S&P 600 (SmallCap),1227808512,11.35,0.05845,0.02535,-0.018,1.752,87061376.0,0.1985815602836879,"Reviewed, no material AI/crypto exposure found"
+51,VYX,NCR Voyix Corporation,IT Consulting & Other Services,S&P 600 (SmallCap),1054854080,7.64,0.05272,0.02987,-0.208,1.072,216250000.0,0.1631205673758865,"Reviewed, no material AI/crypto exposure found"
+52,EFOR,"Everforth, Inc. (formerly ASGN Incorporated)",IT Consulting & Other Services,S&P 600 (SmallCap),1309950080,31.95,0.04571,0.020920001,-0.013,2.127,213500000.0,0.1489361702127659,"Reviewed, no material AI/crypto exposure found"
+53,DXC,DXC Technology Company,IT Consulting & Other Services,S&P 600 (SmallCap),1733598848,10.85,0.04025,0.00993,-0.051,1.408,877000000.0,0.0992907801418439,"Reviewed, no material AI/crypto exposure found"
