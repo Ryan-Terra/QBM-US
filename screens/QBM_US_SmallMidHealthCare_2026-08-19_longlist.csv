@@ -1,0 +1,42 @@
+ticker,longName,GICS Sub-Industry,Index,cohort,marketCap,profitMargins,returnOnEquity,revenueGrowth,currentRatio,OncologyCancerFlag
+TGTX,"TG Therapeutics, Inc.",Biotechnology,S&P 600 (SmallCap),Profitable,7693980672,0.55218,1.0028,0.703,4.267,
+LQDA,Liquidia Corporation,Pharmaceuticals,S&P 600 (SmallCap),Profitable,6653195776,0.30739,1.3181599,18.427,2.312,
+LGND,Ligand Pharmaceuticals Incorporated,Biotechnology,S&P 600 (SmallCap),Profitable,5733281280,0.6788,0.21962,0.337,31.178,
+INVA,"Innoviva, Inc.",Pharmaceuticals,S&P 600 (SmallCap),Profitable,1535216640,0.8119,0.36676,0.193,16.007,
+ADMA,"ADMA Biologics, Inc.",Biotechnology,S&P 600 (SmallCap),Profitable,2136813824,0.32981998,0.41897,0.159,6.972,
+ACAD,ACADIA Pharmaceuticals Inc.,Pharmaceuticals,S&P 600 (SmallCap),Profitable,5200180736,0.33416,0.35743,0.164,3.388,
+KRYS,"Krystal Biotech, Inc.",Biotechnology,S&P 400 (MidCap),Profitable,9851084800,0.54818,0.20124,0.241,8.318,
+TMDX,"TransMedics Group, Inc.",Health Care Equipment,S&P 600 (SmallCap),Profitable,3144688896,0.22694,0.36285,0.207,6.625,
+HRMY,"Harmony Biosciences Holdings, Inc.",Biotechnology,S&P 600 (SmallCap),Profitable,2261319168,0.18884,0.20456,0.303,3.479,
+ANIP,"ANI Pharmaceuticals, Inc.",Pharmaceuticals,S&P 600 (SmallCap),Profitable,1765731072,0.1107,0.20459,0.259,2.91,
+BLFS,"BioLife Solutions, Inc.",Health Care Supplies,S&P 600 (SmallCap),Profitable,1708800128,0.54346,0.12829,0.215,9.694,
+CRVL,CorVel Corporation,Health Care Services,S&P 600 (SmallCap),Profitable,3401785856,0.11724,0.30697,0.107,1.941,
+CON,"Concentra Group Holdings Parent, Inc.",Health Care Services,S&P 600 (SmallCap),Profitable,4469496320,0.08688,0.4706,0.1,1.377,
+SHC,Sotera Health Company,Health Care Services,S&P 400 (MidCap),Profitable,5282287104,0.13442001,0.27781,0.092,2.796,
+LMAT,"LeMaitre Vascular, Inc.",Health Care Equipment,S&P 600 (SmallCap),Profitable,1864301696,0.25024998,0.16774,0.096,16.312,
+UFPT,"UFP Technologies, Inc.",Health Care Equipment,S&P 600 (SmallCap),Profitable,2432100608,0.11446,0.17052001,0.151,3.0,
+DOCS,"Doximity, Inc.",Health Care Technology,S&P 400 (MidCap),Profitable,4445454848,0.25481,0.17206,0.073,6.078,
+AMRX,"Amneal Pharmaceuticals, Inc.",Pharmaceuticals,S&P 600 (SmallCap),Profitable,6335504896,0.050479997,6.1301703,0.099,2.205,
+VCYT,"Veracyte, Inc.",Health Care Services,S&P 600 (SmallCap),Profitable,3270294784,0.20374,0.087740004,0.155,9.162,Genomic diagnostics incl. thyroid/prostate/lung cancer tests
+PAHC,Phibro Animal Health Corporation,Pharmaceuticals,S&P 600 (SmallCap),Profitable,1405567488,0.06349,0.30337998,0.103,3.172,
+LIVN,LivaNova PLC,Health Care Equipment,S&P 400 (MidCap),Profitable,4386992128,0.12813,0.15404001,0.108,1.45,
+LNTH,"Lantheus Holdings, Inc.",Health Care Supplies,S&P 400 (MidCap),Profitable,6544207872,0.1769,0.22215,0.027,3.06,Radiopharmaceuticals; PYLARIFY prostate-cancer PET imaging is majority of revenue
+ALHC,"Alignment Healthcare, Inc.",Health Care Services,S&P 600 (SmallCap),Profitable,2744366848,0.00889,0.20044,0.316,1.698,
+VCEL,Vericel Corporation,Biotechnology,S&P 600 (SmallCap),Profitable,2266404864,0.07908,0.07157,0.225,5.039,
+HQY,"HealthEquity, Inc.",Managed Health Care,S&P 400 (MidCap),Profitable,8593466368,0.17252001,0.11062,0.072,3.437,
+VIR,"Vir Biotechnology, Inc.",Biotechnology,S&P 600 (SmallCap),Development-stage,1605859328,-0.83,-0.26081,195.825,6.042,
+PTCT,"PTC Therapeutics, Inc.",Pharmaceuticals,S&P 600 (SmallCap),Development-stage,6061757440,-0.03805,,1.015,3.394,
+SUPN,"Supernus Pharmaceuticals, Inc.",Pharmaceuticals,S&P 600 (SmallCap),Development-stage,2851976960,-0.13232,-0.104899995,0.324,2.083,
+TFX,Teleflex Incorporated,Health Care Equipment,S&P 600 (SmallCap),Development-stage,5589766656,-0.45761,-0.00701,0.289,2.604,
+RDNT,"RadNet, Inc.",Health Care Services,S&P 600 (SmallCap),Development-stage,5810255872,-0.00931,0.01498,0.25,1.484,Diagnostic imaging centers incl. mammography/cancer screening
+XNCR,"Xencor, Inc.",Biotechnology,S&P 600 (SmallCap),Development-stage,1889319936,-1.55588,-0.29072002,0.175,6.391,"Oncology + autoimmune bispecific-antibody biotech, meaningful oncology pipeline"
+AHCO,AdaptHealth Corp.,Health Care Equipment,S&P 600 (SmallCap),Development-stage,776441344,-0.06786,-0.15224,0.127,1.124,
+AZTA,"Azenta, Inc.",Life Sciences Tools & Services,S&P 600 (SmallCap),Development-stage,1444800768,-0.20021999,-0.07041,0.12,2.5,
+AORT,"Artivion, Inc.",Health Care Equipment,S&P 600 (SmallCap),Development-stage,1409054720,-0.00671,-0.0073100002,0.113,3.473,
+NEO,"NeoGenomics, Inc.",Health Care Services,S&P 600 (SmallCap),Development-stage,2042759424,-0.0677,-0.06327,0.112,3.603,Cancer genomics/molecular diagnostics (pure-play oncology testing)
+SDGR,"Schrödinger, Inc.",Health Care Services,S&P 600 (SmallCap),Development-stage,1321815552,-0.20976,-0.16174999,0.075,2.706,Computational drug discovery; own + partnered oncology pipeline
+TNDM,"Tandem Diabetes Care, Inc.",Health Care Equipment,S&P 600 (SmallCap),Development-stage,1651102592,-0.0608,-0.48026,0.058,3.18,
+BRKR,Bruker Corporation,Health Care Equipment,S&P 400 (MidCap),Development-stage,8663150592,-0.020350002,-0.029979998,0.052,1.847,
+ENOV,Enovis Corporation,Health Care Equipment,S&P 600 (SmallCap),Development-stage,1478645888,-0.4797,-0.54142,0.032,1.985,
+QDEL,QuidelOrtho Corporation,Health Care Supplies,S&P 600 (SmallCap),Development-stage,920967936,-0.39203998,-0.45905998,0.028,1.386,
+RCUS,"Arcus Biosciences, Inc.",Biotechnology,S&P 600 (SmallCap),"Development-stage (manually included, see note)",3711566080,0.0,-0.90819,-0.744,3.818,"Clinical-stage oncology immunotherapy (pure-play); manually added despite low revenue-growth rank because a one-off collaboration-revenue comparison, not pipeline quality, drove the negative YoY figure"

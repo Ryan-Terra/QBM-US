@@ -1,0 +1,37 @@
+ticker,longName,GICS Sub-Industry,Index,cohort,marketCap,profitMargins,returnOnEquity,revenueGrowth,currentRatio,freeCashflow
+LIF,"Life360, Inc.",Application Software,S&P 600 (SmallCap),Profitable,3605506304,0.25725,0.30056,0.378,5.601,74707752.0
+YOU,"Clear Secure, Inc.",Application Software,S&P 600 (SmallCap),Profitable,6071763968,0.14778,1.19174,0.266,1.04,418440384.0
+APPF,"AppFolio, Inc.",Application Software,S&P 400 (MidCap),Profitable,7381078016,0.15134,0.3209,0.193,3.831,198919872.0
+QLYS,"Qualys, Inc.",Systems Software,S&P 400 (MidCap),Profitable,6474281472,0.29381,0.38592,0.11,1.384,244382624.0
+ADEA,Adeia Inc.,IT Consulting & Other Services,S&P 600 (SmallCap),Profitable,3059171328,0.26053,0.27878,0.121,3.247,195100624.0
+PEGA,Pegasystems Inc.,Application Software,S&P 400 (MidCap),Profitable,5464820736,0.18662001,0.54693,0.094,1.059,507401984.0
+ATEN,"A10 Networks, Inc.",Systems Software,S&P 600 (SmallCap),Profitable,1892191104,0.13854,0.19444999,0.155,1.29,61384500.0
+ARLO,"Arlo Technologies, Inc.",Communications Equipment,S&P 600 (SmallCap),Profitable,1462464768,0.052020002,0.22068001,0.205,1.402,69509248.0
+NSSC,"Napco Security Technologies, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),Profitable,1358889216,0.18705,0.21744,0.076,4.946,48234624.0
+AGYS,"Agilysys, Inc.",Application Software,S&P 600 (SmallCap),Profitable,3219690752,0.12986,0.13802,0.143,1.741,57453376.0
+RAMP,"LiveRamp Holdings, Inc.",Application Software,S&P 600 (SmallCap),Profitable,2282243840,0.18714,0.16055,0.098,2.657,169467120.0
+CVLT,"Commvault Systems, Inc.",Systems Software,S&P 400 (MidCap),Profitable,5934032384,0.05618,0.32773998,0.114,2.043,303740256.0
+CXT,"Crane NXT, Co.",Electronic Equipment & Instruments,S&P 400 (MidCap),Profitable,2774454784,0.07782,0.11484,0.22,1.415,239787504.0
+BDC,Belden Inc.,Electronic Components,S&P 400 (MidCap),Profitable,5044995072,0.08522,0.18643999,0.116,2.135,108234624.0
+IDCC,"InterDigital, Inc.",Communications Equipment,S&P 400 (MidCap),Profitable,8671851520,0.38323003,0.26403,-0.134,1.743,600847744.0
+DGII,Digi International Inc.,Communications Equipment,S&P 600 (SmallCap),Profitable,3056342016,0.096269995,0.07459,0.29,1.129,128003128.0
+PLXS,Plexus Corp.,Electronic Manufacturing Services,S&P 600 (SmallCap),Profitable,6591197184,0.04034,0.1258,0.281,1.488,20809250.0
+KN,Knowles Corporation,Electronic Components,S&P 600 (SmallCap),Profitable,3050429952,0.106300004,0.094969995,0.143,3.201,39312500.0
+NTCT,"NetScout Systems, Inc.",Communications Equipment,S&P 600 (SmallCap),Profitable,2809410560,0.13706,0.0754,0.127,1.825,226413504.0
+ACIW,"ACI Worldwide, Inc.",Application Software,S&P 600 (SmallCap),Profitable,5334474752,0.124,0.15617,0.073,1.582,260535632.0
+VNT,Vontier Corporation,Electronic Equipment & Instruments,S&P 400 (MidCap),Profitable,4426448384,0.11342,0.289,-0.022,1.252,347624992.0
+CTS,CTS Corporation,Electronic Manufacturing Services,S&P 600 (SmallCap),Profitable,1706632448,0.12368,0.12429,0.07,2.609,72120000.0
+BMI,"Badger Meter, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),Profitable,3727418624,0.14269,0.1848,-0.066,2.422,128289624.0
+CALX,"Calix, Inc.",Application Software,S&P 600 (SmallCap),Profitable,2461891840,0.04607,0.06905,0.213,2.83,61477124.0
+OSIS,"OSI Systems, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),Profitable,3648487680,0.08424,0.17165,0.02,3.245,36977752.0
+ITRI,"Itron, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),Profitable,4274900480,0.11895,0.16885,-0.072,2.746,295262240.0
+DLB,"Dolby Laboratories, Inc.",Application Software,S&P 400 (MidCap),Profitable,5792946688,0.16700001,0.08758,-0.033,3.185,331846016.0
+CNXN,"PC Connection, Inc.",Technology Distributors,S&P 600 (SmallCap),Profitable,1998605184,0.03208,0.104320005,0.124,2.88,11910875.0
+SPSC,"SPS Commerce, Inc.",Application Software,S&P 600 (SmallCap),Profitable,2862374144,0.10098,0.08262,0.056,2.259,176569376.0
+FIVN,"Five9, Inc.",Application Software,S&P 600 (SmallCap),Profitable,2465129216,0.049390003,0.079169996,0.103,4.149,260481504.0
+HLIT,Harmonic Inc.,Communications Equipment,S&P 600 (SmallCap),"FCF-positive, GAAP-unprofitable",1385143808,-0.10619,0.06546,0.535,3.047,74130248.0
+RAL,Ralliant Corporation,Electronic Equipment & Instruments,S&P 600 (SmallCap),"FCF-positive, GAAP-unprofitable",7653522944,-0.56386,-0.53898996,0.128,1.524,333950016.0
+PI,"Impinj, Inc.",Electronic Equipment & Instruments,S&P 600 (SmallCap),"FCF-positive, GAAP-unprofitable",5159723520,-0.07265,-0.12875,0.107,3.277,56185876.0
+RNG,"RingCentral, Inc.",Application Software,S&P 600 (SmallCap),"FCF-positive, GAAP-unprofitable",5537711104,0.04267,,0.059,1.106,639506496.0
+DBX,"Dropbox, Inc.",Application Software,S&P 400 (MidCap),"FCF-positive, GAAP-unprofitable",7486549504,0.17491,,0.009,1.074,783075008.0
+CLSK,"CleanSpark, Inc.",Internet Services & Infrastructure,S&P 600 (SmallCap),"FCF-positive, GAAP-unprofitable",2928998656,-1.46901,-0.68622,-0.305,5.912,48898124.0

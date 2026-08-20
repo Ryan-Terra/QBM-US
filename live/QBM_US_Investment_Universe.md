@@ -3,7 +3,8 @@
 Created: 13 August 2026  
 Discovery scan completed: 14 August 2026 (see [screens/QBM_US_Discovery_2026-08-14.md](../screens/QBM_US_Discovery_2026-08-14.md))  
 Mini QBM completed: 14 August 2026 (see [screens/QBM_US_MiniQBM_2026-08-14.md](../screens/QBM_US_MiniQBM_2026-08-14.md))  
-Full QBM completed: 14 August 2026 (see [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md))
+Full QBM completed: 14 August 2026 (see [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md))  
+Supplemental Discovery scan (Small/Mid-Cap Health Care, Methodology v1.4): 19 August 2026 (see [screens/QBM_US_Discovery_2026-08-19_SmallMidHealthCare.md](../screens/QBM_US_Discovery_2026-08-19_SmallMidHealthCare.md))
 
 Company IDs are permanent. If a ticker or company name changes, retain the original Company ID and update current metadata separately.
 
@@ -11,10 +12,10 @@ Company IDs are permanent. If a ticker or company name changes, retain the origi
 
 9 companies assessed, all referencing Standing CMEA **CMEA-US-2026-08-14-001**. Originally 3 advanced to Add (NVDA, LLY, MA) and 6 returned to Continue Monitoring on the evidence. **Same day, the investor added a Thematic Exclusion (AI-industry exposure, broadly applied — see UserProfile.md) that retroactively excludes NVDA, LRCX, AVGO, GOOGL and KLAC.** Decision column below shows the current (post-exclusion) status; original decisions are preserved in [screens/QBM_US_FullQBM_2026-08-14.md](../screens/QBM_US_FullQBM_2026-08-14.md) with a correction notice, not deleted.
 
-| Company ID | Company | Ticker | Assessment ID | Journal ID | Decision | Priority | Allocation range | Review date | Portfolio status | Record status |
-|---|---|---|---|---|---|---|---|---|---|---|
-| QBM-US-COMP-LLY | Eli Lilly | LLY | QBM-US-ASSESS-LLY-2026-08-14-001 | QBM-US-JOURNAL-LLY-2026-08-14-001 | Add | Tier 1 | 10-15% | Not yet scheduled | Recommended, not held | Complete |
-| QBM-US-COMP-MA | Mastercard | MA | QBM-US-ASSESS-MA-2026-08-14-001 | QBM-US-JOURNAL-MA-2026-08-14-001 | Add | Tier 1 | 10-20% | Not yet scheduled | Recommended, not held | Complete |
+| Company ID | Company | Ticker | Assessment ID | Journal ID | Decision | Implementation Readiness | Priority | Allocation range | Review date | Portfolio status | Record status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| QBM-US-COMP-LLY | Eli Lilly | LLY | QBM-US-ASSESS-LLY-2026-08-14-001 | QBM-US-JOURNAL-LLY-2026-08-14-001 | Add | Await Better Entry (19 Aug — +61%/1yr, ~97% up 52-week range) | Tier 1 | 8-11% (recomputed 19 Aug — [Position Sizing Framework](../framework/QBM_US_Methodology.md#position-sizing-framework-added-v17)) | September 2026 (Rule 702 hearing) | Recommended, not held | Complete |
+| QBM-US-COMP-MA | Mastercard | MA | QBM-US-ASSESS-MA-2026-08-14-001 | QBM-US-JOURNAL-MA-2026-08-14-001 | Add | Ready (19 Aug — roughly flat/1yr, off a 52-week low set 2 months ago) | Tier 1 | 12-15% (recomputed 19 Aug — capped at the framework's 15% ceiling) | Not yet scheduled | Recommended, not held | Complete |
 | QBM-US-COMP-HALO | Halozyme | HALO | QBM-US-ASSESS-HALO-2026-08-14-001 | QBM-US-JOURNAL-HALO-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
 | QBM-US-COMP-AAPL | Apple Inc. | AAPL | QBM-US-ASSESS-AAPL-2026-08-14-001 | QBM-US-JOURNAL-AAPL-2026-08-14-001 | Continue Monitoring | Tier 2 | Not applicable | Not scheduled | Watchlist | Complete |
 | QBM-US-COMP-NVDA | Nvidia | NVDA | QBM-US-ASSESS-NVDA-2026-08-14-001 | QBM-US-JOURNAL-NVDA-2026-08-14-001 | **Excluded — investor preference (AI exposure)** | — | Not applicable | Not applicable | Excluded | Complete (was Add on the merits) |
@@ -22,6 +23,26 @@ Company IDs are permanent. If a ticker or company name changes, retain the origi
 | QBM-US-COMP-AVGO | Broadcom | AVGO | QBM-US-ASSESS-AVGO-2026-08-14-001 | QBM-US-JOURNAL-AVGO-2026-08-14-001 | **Excluded — investor preference (AI exposure)** | — | Not applicable | Not applicable | Excluded | Complete |
 | QBM-US-COMP-GOOGL | Alphabet (Class A) | GOOGL | QBM-US-ASSESS-GOOGL-2026-08-14-001 | QBM-US-JOURNAL-GOOGL-2026-08-14-001 | **Excluded — investor preference (AI exposure)** | — | Not applicable | Not applicable | Excluded | Complete |
 | QBM-US-COMP-KLAC | KLA Corporation | KLAC | QBM-US-ASSESS-KLAC-2026-08-14-001 | QBM-US-JOURNAL-KLAC-2026-08-14-001 | **Excluded — investor preference (AI exposure)** | — | Not applicable | Not applicable | Excluded | Complete |
+
+## Full QBM — Small/Mid-Cap Health Care (19 August 2026)
+
+11 companies assessed under the Target Holding Period (6-18 months, Charter v1.1) — full detail: [screens/QBM_US_FullQBM_2026-08-19_SmallMidHealthCare.md](../screens/QBM_US_FullQBM_2026-08-19_SmallMidHealthCare.md). 8 Add, 3 Continue Monitoring. **Implementation Readiness revised same day under Entry-Point Discipline (Charter v1.2)** — see [screens/QBM_US_EntryPointReview_2026-08-19.md](../screens/QBM_US_EntryPointReview_2026-08-19.md). **Superseded again the same day by Portfolio Concentration (Charter v1.3):** the investor directed 5-8 holdings at 10-20% each — see [screens/QBM_US_ConcentratedPortfolio_2026-08-19.md](../screens/QBM_US_ConcentratedPortfolio_2026-08-19.md) for the final selection and weights (VCYT/NEO/HQY/KRYS/HRMY table below still shows the interim per-tier Allocation ranges from the now-superseded continuous framework; the Concentrated Portfolio document is authoritative for actual target weights). Investment Decision unaffected by any of the three passes.
+
+| Company ID | Company | Ticker | Assessment ID | Journal ID | Decision | Implementation Readiness | Priority | Allocation range | Portfolio status |
+|---|---|---|---|---|---|---|---|---|---|
+| QBM-US-COMP-XNCR | Xencor | XNCR | QBM-US-ASSESS-XNCR-2026-08-19-001 | QBM-US-JOURNAL-XNCR-2026-08-19-001 | Add | Ready — down 18%/1yr, re-rating still early | Tier 2 | 2-3% (recomputed — small-cap + binary clinical catalyst) | Recommended, not held |
+| QBM-US-COMP-PTCT | PTC Therapeutics | PTCT | QBM-US-ASSESS-PTCT-2026-08-19-001 | QBM-US-JOURNAL-PTCT-2026-08-19-001 | Add | Ready with Considerations — ~20% below 52-week high | Tier 1 | 4-6% (recomputed) | Recommended, not held |
+| QBM-US-COMP-VCYT | Veracyte | VCYT | QBM-US-ASSESS-VCYT-2026-08-19-001 | QBM-US-JOURNAL-VCYT-2026-08-19-001 | Add | Await Better Entry — +62.8% in 90 days | Tier 1 | 6-8% (recomputed) | Recommended, not held |
+| QBM-US-COMP-NEO | NeoGenomics | NEO | QBM-US-ASSESS-NEO-2026-08-19-001 | QBM-US-JOURNAL-NEO-2026-08-19-001 | Add | Await Better Entry — +170%/1yr | Tier 1 | 4-6% (recomputed) | Recommended, not held |
+| QBM-US-COMP-ACAD | ACADIA Pharmaceuticals | ACAD | QBM-US-ASSESS-ACAD-2026-08-19-001 | QBM-US-JOURNAL-ACAD-2026-08-19-001 | Add | Await Better Entry — at 52-week high | Tier 2 | 4-5% (recomputed — binary clinical catalyst) | Recommended, not held |
+| QBM-US-COMP-HRMY | Harmony Biosciences | HRMY | QBM-US-ASSESS-HRMY-2026-08-19-001 | QBM-US-JOURNAL-HRMY-2026-08-19-001 | Add | Await Better Entry — ~95% up 52-week range | Tier 2 | 4-5% (recomputed — binary PDUFA catalyst) | Recommended, not held |
+| QBM-US-COMP-KRYS | Krystal Biotech | KRYS | QBM-US-ASSESS-KRYS-2026-08-19-001 | QBM-US-JOURNAL-KRYS-2026-08-19-001 | Add | Await Better Entry — ~81% up 52-week range | Tier 2 | 4-5% (recomputed — binary readout catalyst) | Recommended, not held |
+| QBM-US-COMP-HQY | HealthEquity | HQY | QBM-US-ASSESS-HQY-2026-08-19-001 | QBM-US-JOURNAL-HQY-2026-08-19-001 | Add | Await Better Entry — elevated + confirmed breach | Tier 3 | 4-5% (recomputed — mid-cap tier floor is structural; breach already reflected in Readiness) | Recommended, not held |
+| QBM-US-COMP-LGND | Ligand Pharmaceuticals | LGND | QBM-US-ASSESS-LGND-2026-08-19-001 | QBM-US-JOURNAL-LGND-2026-08-19-001 | Continue Monitoring | Not Applicable | Tier 3 | Not applicable | Watchlist |
+| QBM-US-COMP-CON | Concentra Group Holdings | CON | QBM-US-ASSESS-CON-2026-08-19-001 | QBM-US-JOURNAL-CON-2026-08-19-001 | Continue Monitoring | Not Applicable | Tier 3 | Not applicable | Watchlist |
+| QBM-US-COMP-INVA | Innoviva | INVA | QBM-US-ASSESS-INVA-2026-08-19-001 | QBM-US-JOURNAL-INVA-2026-08-19-001 | Continue Monitoring | Not Applicable | Tier 3 | Not applicable | Watchlist |
+
+**Portfolio Fit disclosure carried from the Full QBM record:** if all 8 new Adds were funded alongside the existing LLY/MA Adds, the portfolio would hold 10 Add positions, 9 of them Health Care (8 small/mid-cap) — a real, correlated sector-concentration exposure for the investor to weigh at sizing/execution time, not a reason any individual name was rejected.
 
 ## Mini QBM — current scan records
 
@@ -106,6 +127,105 @@ Company IDs are permanent. If a ticker or company name changes, retain the origi
 | QBM-US-COMP-EOG | EOG Resources | EOG | 38 | Discovery only | Complete |
 | QBM-US-COMP-AMG | Affiliated Managers Group | AMG | 39 | Discovery only | Complete |
 | QBM-US-COMP-AGX | Argan, Inc. | AGX | 40 | Discovery only | Complete |
+
+## Discovery + Mini QBM — Small/Mid-Cap Health Care supplemental scan (19 August 2026)
+
+41 companies added under Methodology v1.4 — Discovery detail: [screens/QBM_US_Discovery_2026-08-19_SmallMidHealthCare.md](../screens/QBM_US_Discovery_2026-08-19_SmallMidHealthCare.md); Mini QBM detail: [screens/QBM_US_MiniQBM_2026-08-19_OncologySmallMid.md](../screens/QBM_US_MiniQBM_2026-08-19_OncologySmallMid.md) (7 oncology-flagged) and [screens/QBM_US_MiniQBM_2026-08-19_SmallMidHealthCareRemaining.md](../screens/QBM_US_MiniQBM_2026-08-19_SmallMidHealthCareRemaining.md) (remaining 34). ADMA and LGND Company IDs reused (already tracked from 14 Aug scan); LQDA and TGTX Mini QBM decisions carried forward unchanged from 14 Aug 2026 rather than re-researched.
+
+| Company ID | Company | Ticker | Oncology/cancer flag | Mini QBM Decision | Priority |
+|---|---|---|---|---|---|
+| QBM-US-COMP-VCYT | Veracyte, Inc. | VCYT | Yes | **Advance to Full QBM** | Tier 1 |
+| QBM-US-COMP-NEO | NeoGenomics, Inc. | NEO | Yes | **Advance to Full QBM** | Tier 1 |
+| QBM-US-COMP-PTCT | PTC Therapeutics, Inc. | PTCT | No | **Advance to Full QBM** | Tier 1 |
+| QBM-US-COMP-XNCR | Xencor, Inc. | XNCR | Yes | **Advance to Full QBM** | Tier 2 |
+| QBM-US-COMP-ACAD | ACADIA Pharmaceuticals Inc. | ACAD | No | **Advance to Full QBM** | Tier 2 |
+| QBM-US-COMP-LGND | Ligand Pharmaceuticals | LGND | No | **Advance to Full QBM** | Tier 2 |
+| QBM-US-COMP-HQY | HealthEquity, Inc. | HQY | No | **Advance to Full QBM** | Tier 2 |
+| QBM-US-COMP-HRMY | Harmony Biosciences Holdings, Inc. | HRMY | No | **Advance to Full QBM** (revised 19 Aug — Target Holding Period review) | Tier 2 |
+| QBM-US-COMP-KRYS | Krystal Biotech, Inc. | KRYS | No | **Advance to Full QBM** (revised 19 Aug — Target Holding Period review) | Tier 2 |
+| QBM-US-COMP-CON | Concentra Group Holdings Parent, Inc. | CON | No | **Advance to Full QBM** (revised 19 Aug — Target Holding Period review) | Tier 2 |
+| QBM-US-COMP-INVA | Innoviva, Inc. | INVA | No | **Advance to Full QBM** (revised 19 Aug — Target Holding Period review) | Tier 3 |
+| QBM-US-COMP-SDGR | Schrödinger, Inc. | SDGR | Yes | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-RCUS | Arcus Biosciences, Inc. | RCUS | Yes (manually included) | Continue Monitoring | Tier 2 (watch) |
+| QBM-US-COMP-RDNT | RadNet, Inc. | RDNT | Yes | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-AORT | Artivion, Inc. | AORT | No | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-PAHC | Phibro Animal Health Corporation | PAHC | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-AZTA | Azenta, Inc. | AZTA | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-ENOV | Enovis Corporation | ENOV | No | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-VIR | Vir Biotechnology, Inc. | VIR | No | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-ANIP | ANI Pharmaceuticals, Inc. | ANIP | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-LMAT | LeMaitre Vascular, Inc. | LMAT | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-VCEL | Vericel Corporation | VCEL | No | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-UFPT | UFP Technologies, Inc. | UFPT | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-TFX | Teleflex Incorporated | TFX | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-LIVN | LivaNova PLC | LIVN | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-SHC | Sotera Health Company | SHC | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-TMDX | TransMedics Group, Inc. | TMDX | No | Continue Monitoring | Tier 2 |
+| QBM-US-COMP-AMRX | Amneal Pharmaceuticals, Inc. | AMRX | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-BRKR | Bruker Corporation | BRKR | No | Continue Monitoring | Tier 3 |
+| QBM-US-COMP-AHCO | AdaptHealth Corp. | AHCO | No | Not advanced | — |
+| QBM-US-COMP-QDEL | QuidelOrtho Corporation | QDEL | No | Not advanced | — |
+| QBM-US-COMP-TNDM | Tandem Diabetes Care, Inc. | TNDM | No | Not advanced | — |
+| QBM-US-COMP-ADMA | ADMA Biologics | ADMA | No | Not advanced (ID reused, already tracked from 14 Aug scan) | — |
+| QBM-US-COMP-ALHC | Alignment Healthcare, Inc. | ALHC | No | Not advanced | — |
+| QBM-US-COMP-CRVL | CorVel Corporation | CRVL | No | Not advanced | — |
+| QBM-US-COMP-DOCS | Doximity, Inc. | DOCS | No | Not advanced | — |
+| QBM-US-COMP-LQDA | Liquidia Corporation | LQDA | No | Not advanced (confirmed 19 Aug — Target Holding Period review found no evidenced near-term litigation resolution) | — |
+| QBM-US-COMP-TGTX | TG Therapeutics, Inc. | TGTX | No | Not advanced (carried forward from 14 Aug 2026) | — |
+| QBM-US-COMP-LNTH | Lantheus Holdings, Inc. | LNTH | Yes | **Not applicable — pending acquisition by Curium**, not a quality finding | Not tiered |
+| QBM-US-COMP-BLFS | BioLife Solutions, Inc. | BLFS | No | **Not applicable — pending acquisition by Repligen**, not a quality finding | Not tiered |
+| QBM-US-COMP-SUPN | Supernus Pharmaceuticals, Inc. | SUPN | No | **Not applicable — pending merger of equals with Indivior**, not a quality finding | Not tiered |
+
+## Discovery + Mini QBM — Small/Mid-Cap Electronic Technology & Technology Services supplemental scan (19 August 2026)
+
+**Full QBM completed 20 August 2026 on the 15 Mini QBM Advance names** — full detail: [screens/QBM_US_FullQBM_2026-08-20_TechServices.md](../screens/QBM_US_FullQBM_2026-08-20_TechServices.md). Insider Ownership & Net Buying Screen went through three iterations same day: net buying required (v1.13, 0/15 passed) → "no material net selling" as a hard gate (v1.14, 2/15 passed) → net selling demoted to a disclosed factor affecting Decision Confidence/Priority Tier, ownership level kept as the only hard gate (v1.15). The six-name ownership data gap (KN, DLB, CNXN, DGII, PI, ARLO) was then closed with fresh research. **Final result: 8 of 15 Advance** — BDC (Ready, no discount), CNXN, DLB, AGYS (Ready with Considerations), NTCT, DGII (Await Better Entry — both fail the ATH rule), CTS (Await Better Entry, Medium-Low confidence), PI (Ready with Considerations, Low confidence — the most severe insider selling found in the batch). 7 remain Not Advanced: 5 on a confirmed-failing ownership tier (ACIW, PLXS, HLIT, KN, ARLO) and 2 (RAL, CVLT) on independent securities-litigation findings unrelated to insider ownership. All 8 Adds join the bench (12 companies total, alongside NEO, HRMY, KRYS, HQY) — none has a target-portfolio slot yet.
+
+All 36 companies below have now completed Mini QBM — full detail: [screens/QBM_US_MiniQBM_2026-08-19_TechServices.md](../screens/QBM_US_MiniQBM_2026-08-19_TechServices.md). Result: **15 Advance to Full QBM** (ARLO, AGYS, CVLT, BDC, DGII, PLXS, KN, NTCT, ACIW, CTS, DLB, CNXN, HLIT, RAL, PI), **14 Continue Monitoring**, **4 Not advanced** (PEGA, RAMP, BMI, SPSC), **3 Excluded — AI-infrastructure exposure** (CLSK, ATEN, ADEA — found during Mini QBM Eligibility research, not obvious from GICS classification alone). Company IDs below are updated with Mini QBM decisions; the original Discovery-only summary is preserved beneath.
+
+### Discovery scan record (19 August 2026, Methodology v1.9)
+
+36 companies added (Discovery-only) under Methodology v1.9 — see [screens/QBM_US_Discovery_2026-08-19_TechServices.md](../screens/QBM_US_Discovery_2026-08-19_TechServices.md) for full methodology, filtering and ranking detail. Net margin/ROE gates exempted for these GICS IT sub-industries (ex-semiconductors); FCF-positive and liquidity gates still required — a narrower exemption than Health Care's, by design (biotech is structurally pre-revenue; profitable tech companies choosing GAAP losses to fund growth are not in the same position). One company (PATH — UiPath) individually excluded on AI-exposure grounds (explicit "Agentic Automation" repositioning). None have reached Mini QBM yet.
+
+| Company ID | Company | Ticker | Sub-Industry | Cohort | Record status |
+|---|---|---|---|---|---|
+| QBM-US-COMP-LIF | Life360 | LIF | Application Software | Profitable | Complete (Discovery only) — *ID reused, already tracked from 14 Aug general scan* |
+| QBM-US-COMP-YOU | Clear Secure | YOU | Application Software | Profitable | Complete (Discovery only) — *ID reused, already tracked from 14 Aug general scan* |
+| QBM-US-COMP-APPF | AppFolio | APPF | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-QLYS | Qualys | QLYS | Systems Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-ADEA | Adeia | ADEA | IT Consulting & Other Services | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-PEGA | Pegasystems | PEGA | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-ATEN | A10 Networks | ATEN | Systems Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-ARLO | Arlo Technologies | ARLO | Communications Equipment | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-NSSC | Napco Security Technologies | NSSC | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-AGYS | Agilysys | AGYS | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-RAMP | LiveRamp Holdings | RAMP | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-CVLT | Commvault Systems | CVLT | Systems Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-CXT | Crane NXT | CXT | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-BDC | Belden | BDC | Electronic Components | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-IDCC | InterDigital | IDCC | Communications Equipment | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-DGII | Digi International | DGII | Communications Equipment | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-PLXS | Plexus Corp. | PLXS | Electronic Manufacturing Services | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-KN | Knowles Corporation | KN | Electronic Components | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-NTCT | NetScout Systems | NTCT | Communications Equipment | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-ACIW | ACI Worldwide | ACIW | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-VNT | Vontier Corporation | VNT | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-CTS | CTS Corporation | CTS | Electronic Manufacturing Services | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-BMI | Badger Meter | BMI | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-CALX | Calix | CALX | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-OSIS | OSI Systems | OSIS | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-ITRI | Itron | ITRI | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-DLB | Dolby Laboratories | DLB | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-CNXN | PC Connection | CNXN | Technology Distributors | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-SPSC | SPS Commerce | SPSC | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-FIVN | Five9 | FIVN | Application Software | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-HLIT | Harmonic Inc. | HLIT | Communications Equipment | FCF-positive, GAAP-unprofitable | Complete (Discovery only) |
+| QBM-US-COMP-RAL | Ralliant Corporation | RAL | Electronic Equipment & Instruments | FCF-positive, GAAP-unprofitable | Complete (Discovery only) — recent spin-off, flagged |
+| QBM-US-COMP-PI | Impinj, Inc. | PI | Electronic Equipment & Instruments | FCF-positive, GAAP-unprofitable | Complete (Discovery only) |
+| QBM-US-COMP-RNG | RingCentral | RNG | Application Software | FCF-positive, GAAP-unprofitable | Complete (Discovery only) |
+| QBM-US-COMP-DBX | Dropbox | DBX | Application Software | FCF-positive, GAAP-unprofitable | Complete (Discovery only) |
+| QBM-US-COMP-CLSK | CleanSpark | CLSK | Internet Services & Infrastructure | FCF-positive, GAAP-unprofitable | **Excluded — investor preference, two independent grounds:** (1) AI-infrastructure exposure (explicit pivot to AI/HPC data-center buildout, found at Mini QBM); (2) Crypto exposure (bitcoin mining, added to Thematic Exclusions 19-20 Aug 2026) |
+
+**Excluded — AI-exposure (Thematic Exclusion, individual review):** PATH (UiPath) — explicit "Agentic Automation" strategic repositioning around AI/LLM orchestration.
 
 ## Permanently excluded (ethical policy)
 

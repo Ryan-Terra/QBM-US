@@ -1,0 +1,101 @@
+# QBM-US Full QBM — Small/Mid-Cap Electronic Technology & Technology Services — 20 August 2026
+
+Methodology version: **1.13**. Input: the 15 companies that advanced through Mini QBM — ARLO, AGYS, CVLT, BDC, DGII, PLXS, KN, NTCT, ACIW, CTS, DLB, CNXN, HLIT, RAL, PI. Full Evidence Verification Standard applied (dedicated price, adverse-event and analyst-sentiment search pass), plus the two rules built specifically since the last Full QBM: the **ATH Proximity Rule** (Charter v1.5, 10% threshold) and the **Insider Ownership & Net Buying Screen** (Methodology v1.13, added this session at investor request).
+
+## Headline result, stated plainly
+
+**Zero of the 15 clear the Insider Ownership & Net Buying Screen as specified.** Every single company either fails the tiered ownership minimum, fails the net-buying requirement, or both. This is disclosed as the honest, evidence-based output of the rule as built — not softened, not silently reinterpreted. Two independent things happened at once and should not be conflated:
+
+1. **The net-buying gate turns out to be extremely strict in practice.** Genuine open-market insider buying is rare in any 6-month window for established public companies — routine equity-compensation vesting (RSUs, options, ESPP) and pre-scheduled 10b5-1 selling plans mean most executives are structural net sellers as a matter of course, independent of their actual conviction in the business. Applied literally, this gate may be closer to "did any insider buy anything discretionary" than "do insiders show real net accumulation," and at that bar, this batch of 15 — otherwise a reasonable set of profitable, growing companies — clears it precisely zero times.
+
+2. **The dedicated adverse-event search caught two serious, previously-undisclosed problems** that would likely have changed the Mini QBM verdict on their own, independent of the insider screen. Both are detailed below.
+
+## Two major findings the Mini QBM pass missed entirely
+
+### RAL (Ralliant) — undisclosed securities litigation tied to a $1.4B goodwill impairment
+
+Mini QBM's research (19 Aug) was built on Ralliant's strong Q2 2026 print — 13% organic growth, beat-and-raise guidance. This Full QBM pass found something the earlier search missed: **on 4 February 2026, Ralliant disclosed a $1.4 billion goodwill impairment and cut FY2026 guidance — five days after its board had declared a regular quarterly dividend.** That timing is now the subject of an active securities-fraud investigation examining whether management knew about the deteriorating outlook when it declared the dividend. The Q2 2026 recovery is real, but it does not resolve an active investigation into whether the company's disclosures around a $1.4B write-down were timely and complete. Insider activity in the trailing 6 months is dominated by tax-withholding transactions and one CEO sale (12,936 shares, 14 Aug); no discretionary buying was found.
+
+### CVLT (Commvault Systems) — undisclosed securities class action tied to a 31% single-day stock crash
+
+Mini QBM's research was similarly built on a Q2-era beat. This pass found: **on 27 January 2026, Commvault stock fell 31% in a single day** (from $129.36 to $89.13, erasing ~$1.7B of market cap) after the company revealed a sharp SaaS ARR growth deceleration (71% to 40% YoY) and cut full-year ARR guidance. A securities class action was subsequently filed covering the period 29 April 2025 to 26 January 2026, alleging the company's prior disclosures created a materially misleading impression of its growth trajectory. Executives sold approximately **$9.4 million** in stock in the months around and after this event (CEO Mirchandani ~$7.0M, CFO Merrill ~$2.1M, CAO Abrahamsen ~$0.3M) — insider selling into a disclosed crisis is a materially different signal than routine diversification, and is flagged as such rather than netted into "normal" selling activity.
+
+**Both of these are exactly the kind of finding the Evidence Verification Standard exists to catch and Mini QBM's lighter pass is not required to** — this is the process working as intended, not a data-gathering failure, though it's a reminder that Mini QBM conclusions should be treated as provisional until Full QBM's dedicated adverse-event search actually runs.
+
+## Update, same day: Insider Ownership & Net Buying Screen softened to "no material net selling"
+
+Following investor instruction, Gate 2 was re-specified (Methodology v1.14): instead of requiring net buying, it now fails only on *material* net selling — defined as (a) tiered net-dollar selling over 6 months (≥$2M small-cap / ≥$5M mid-cap / ≥$15M mega-large-cap), (b) any single insider reducing their holding by >10%, or (c) multiple C-suite officers selling in a concentrated window. Tax-withholding on RSU/option vesting and routine plan purchases (ESPP) are excluded from the calculation entirely. Re-applying this to all 15:
+
+**Two names change verdict:**
+
+### BDC (Belden) — now Advance to Full QBM
+Insider ownership **5.80%** — clears the mid-cap ≥2% threshold comfortably. Insider activity in the period was four small routine ESPP purchases (~$21K each) and one non-cash gift disposal (not a sale) — no material selling by any definition. **ATH check:** current price $128.18 vs. 52-week high $159.99 — **19.9% below**, clearing the 10% ATH Proximity Rule with real room. Company Quality (from Mini QBM): EPS beat 15.7%, orders +19% YoY, book-to-bill 1.11, RUCKUS Networks acquisition integration underway — real, ongoing execution rather than a single binary event, which also satisfies the Target Holding Period test (continued integration/order-momentum realisation over the next several quarters is the near-term convergence case, not a one-off readout). **Decision: Add. Implementation Readiness: Ready.**
+
+### NTCT (NetScout Systems) — now Advance to Full QBM, but not yet buyable
+Insider ownership **3.82%** — clears the mid-cap ≥2% threshold. Insider selling found (COO, ~$89K single transaction, ~8,254 shares/~$324K cumulative over a year) is well under the $5M mid-cap materiality threshold — immaterial. **ATH check: fails.** Current price $40.67 vs. 52-week high $43.80 (set June 2026) — **7.1% below**, inside the 10% band. The stock is also up 74.65% over the trailing year and 24.69% in the past month alone — a sharp, recent run, disclosed per Entry-Point Discipline. **Decision: Add. Implementation Readiness: Await Better Entry** — quality and insider-alignment evidence both clear, but the entry itself is not there yet.
+
+**RAL clears the softened Gate 2** (its selling was mostly mechanical tax-withholding, with one CEO sale of ~$929K — under the $5M mid-cap threshold) **but remains Not Advanced** — the independent securities-litigation finding above (the $1.4B impairment and suspicious dividend timing) is a separate, standalone reason unrelated to insider ownership, and it stands regardless of this gate.
+
+**DLB remains Not Advanced, but on an inconclusive basis rather than a confirmed fail.** $2.6M was sold in the most recent 3 months alone; the full 6-month aggregate was not obtained, and a linear extrapolation lands close to the $5M mid-cap threshold either side. Rather than assume a number that wasn't verified, this is disclosed as unresolved — a candidate for re-examination once the actual 6-month figure is confirmed, not a clean pass or fail.
+
+**All other 11 remain Not Advanced** — either the ownership tier still fails (ACIW 1.10%, PLXS 1.78%, HLIT 1.7-2.07%, all below their respective thresholds; ARLO's ownership wasn't obtained but its transaction pattern — 0 buys, 35 sells — plus no ownership-tier evidence found in its favour keeps it Not Advanced on the same precautionary basis as DLB) or net selling is clearly and substantially material even under the softened test (CVLT $9.4M, PI $49.4M/3mo, CTS $8.48M, KN ~$9M in one week, CNXN >$5.95M across three officers, DGII $6.9M single transaction, AGYS three C-suite officers selling in the same week — triggers criterion (c) regardless of exact dollar total).
+
+## Second update, same day: net selling demoted from a hard gate to a disclosed/weighted factor
+
+Investor asked directly whether insider selling should be a hurdle at all, given how many companies the v1.14 test failed for ordinary reasons. Agreed assessment: selling is too common and too often benign to reliably discriminate — unlike buying (rare, meaningful) or ownership level (stable, structural). **Methodology v1.15: Gate 1 (ownership tier) stays a hard pass/fail gate. Gate 2 (net selling) no longer blocks an Add — it now moves Decision Confidence and Priority Tier instead, stated explicitly.**
+
+Re-applying this to the 15:
+
+**Two more Advance, both with selling-driven confidence discounts:**
+
+- **CTS — Advance.** Ownership 10.4%, clears the small-cap ≥5% threshold with room. But the CEO sold $8.48M in the trailing 6 months with zero purchases — squarely material under the disclosure test (exceeds the small-cap $2M threshold by more than 4x). **Confidence: Medium-Low** (pulled down from what the operating numbers alone would support), **Priority: Tier 3**, both explicitly because of the selling, not the underlying business. **ATH check: fails** — $64.90 against a 52-week high of $67.88-$69.55 (sources vary slightly, both readings still land inside the 10% band) — **Implementation Readiness: Await Better Entry.**
+- **AGYS — Advance.** Ownership 31.56% (R. Andrew Cueva), clears the mid-cap ≥2% threshold by a wide margin. CEO, CFO and General Counsel all sold within the same week (5-18 Aug 2026) — a concentrated multi-officer pattern, material under the disclosure test regardless of exact dollar total. **Confidence: Medium-Low, Priority: Tier 3**, both explicitly because of the selling pattern. **ATH check: genuinely uncertain** — current price sources conflict materially ($65.32 / $78-81 / $107.76 depending on source); the $107.76 figure is most consistent with the Aug 2026 insider-sale prices ($106.60-$115) and is used as the working estimate, which would place AGYS ~26% below its $144.82 high (clears the ATH rule) — but this is flagged as an unresolved data-quality issue, not a confirmed reading, and should be re-verified with a live quote before sizing. **Implementation Readiness: Ready with Considerations**, pending that price confirmation.
+
+**Six remain Not Advanced on an unresolved Gate 1 basis — not a confirmed fail, a genuine data gap.** KN, DLB, CNXN, DGII, PI and ARLO all had real, sometimes very large, insider selling activity found — but that no longer disqualifies them under v1.15. What still blocks them is that **no reliable insider-ownership percentage was obtained** for any of the six, and per the Methodology, unconfirmed ownership data is not assumed to pass. These are the names most likely to move if that data gap is closed — genuinely open, not rejected on the merits.
+
+**ACIW, PLXS and HLIT remain Not Advanced** — their ownership percentages were confirmed and fail the tier (1.10%, 1.78%, and 1.7-2.07% respectively, all below their required thresholds). This is unaffected by the Gate 2 change.
+
+**RAL and CVLT remain Not Advanced** — both have independent, standalone adverse findings (RAL's securities investigation over the $1.4B impairment; CVLT's securities class action over the 31% crash) that have nothing to do with the insider-selling question and stand regardless of how Gate 2 is calibrated.
+
+## Third update: the six-name ownership data gap closed
+
+| Ticker | Ownership found | Gate 1 result | Selling (disclosed, Gate 2) | ATH check | Final decision |
+|---|---|---|---|---|---|
+| **KN** | 1.7% (Feb 2026, most recent) | **Fails** — mid-cap needs ≥2% | Moot — Gate 1 alone blocks | Not checked | **Not advanced** |
+| **ARLO** | 4.03% | **Fails** — small-cap needs ≥5% | Moot | Not checked | **Not advanced** |
+| **DLB** | **~35%** — David E. Dolby owns 96.7% of Class B shares (10 votes/share), ~36% of total shares outstanding. A controlling founder-family stake, not broad management ownership, but a real, large insider position by any definition | **Passes**, by a wide margin | $2.6M sold in the most recent 3 months alone (full 6-month figure not confirmed) — borderline against the $5M mid-cap threshold; notably, **the selling is from non-family executives (VP, SVP, CFO) — David Dolby himself was not among the sellers found**, which tempers the signal | Est. ~21% below its 52-week high (using ~$60/share from recent insider-transaction prices against the $75.80 high) — clears, though this is an estimate, not a live quote | **Advance.** Confidence: Medium (moderate discount for the borderline/unconfirmed selling total, offset by the controlling family not selling). Priority: Tier 3. Readiness: **Ready with Considerations** (confirm live price) |
+| **CNXN** | Patricia Gallup (Chair) alone owns 10%+ (2,548,391 shares, ~$201M) | **Passes**, by a wide margin | CEO $4.29M + CFO $1.66M + Gallup trust sales — multiple C-suite officers selling in a concentrated window, materially exceeding the $5M mid-cap threshold combined. Gallup's own sales are via a pre-scheduled 10b5-1 trust plan and are a tiny fraction of her remaining 10%+ stake | $78.55 current vs. $88.31 actual 52-week high (a fuller range than the $82.38 figure first found) — **11.1% below, clears the 10% band, but narrowly** | **Advance.** Confidence: Medium-Low (material, multi-officer selling named explicitly). Priority: Tier 3. Readiness: **Ready with Considerations** (narrow ATH clearance, watch closely) |
+| **DGII** | 2.6-5.78% depending on source and date — every reading clears the mid-cap ≥2% threshold despite the spread | **Passes** | CFO sold $6.9M in a single transaction — exceeds the mid-cap threshold on that one sale alone; 0 buys, 6 sells over the trailing year | **Fails outright** — current price $85.12 is *above* its stated 52-week high of $76.41; the stock is making new highs right now off a strong Q3 2026 beat | **Advance.** Confidence: Medium-Low (material CFO selling). Priority: Tier 3. Readiness: **Await Better Entry** — quality and ownership both clear, entry does not |
+| **PI** | 2.5% | **Passes**, narrowly | **$49.4M sold in 3 months, zero buying** — the most severe selling pattern found in the entire batch, several multiples over the mid-cap threshold | Est. ~25% below its 52-week high (using the CFO's $185 sale price on 10 Aug against the $247.06 high) — clears, though again an estimate rather than a live quote | **Advance.** Confidence: **Low** (the scale of selling here is qualitatively worse than the others and is named as such, not softened to match the others' Medium-Low). Priority: Tier 3. Readiness: **Ready with Considerations** (confirm live price; the selling alone would warrant real caution before sizing regardless of price) |
+
+**Two of the six remain Not Advanced** (KN, ARLO) — confirmed failing the ownership tier, unaffected by the Gate 2 change. **Four now Advance** (DLB, CNXN, DGII, PI) — all four carry an explicit, disclosed confidence discount for material selling rather than being blocked by it, consistent with how CTS and AGYS were treated.
+
+## Full results — all 15
+
+| Ticker | Tier / ownership threshold | Ownership found | Net buying (6mo) | Result | Notable adverse finding |
+|---|---|---|---|---|---|
+| RAL | Mid ≥2% | Not obtained | **Fails** — tax-withholding + one CEO sale, no discretionary buying | **Not advanced** | **Securities investigation — $1.4B impairment, suspicious dividend timing** |
+| CVLT | Mid ≥2% | Unreliable source data (internally implausible) | **Fails** — $9.4M sold, no buying found | **Not advanced** | **Securities class action — 31% single-day crash, $1.7B market cap wipeout** |
+| PI | Mid ≥2% | Not obtained | **Fails** — $49.4M sold in 3 months, zero buying | **Not advanced** | Heavy, concentrated recent selling (CFO, CEO via gift, a major holder) |
+| CTS | Small ≥5% | **10.4%** — passes | **Fails** — CEO sold $8.48M in 6 months, zero purchases | **Not advanced** | Selling concentrated right near 52-week highs |
+| KN | Mid ≥2% | Not obtained | **Fails** — CEO+CFO sold ~$9M in Aug 2026 alone, dwarfing one earlier $423K buy | **Not advanced** | — |
+| DLB | Mid ≥2% | Not obtained | **Fails** — 0 buys, 24 sells, $2.6M in the last 3 months alone | **Not advanced** | — |
+| CNXN | Mid ≥2% | Not obtained | **Fails** — CEO $4.29M, CFO $1.66M, Chair trust sales | **Not advanced** | — |
+| DGII | Mid ≥2% | Not obtained | **Fails** — 0 buys, 6 sells, including a $6.9M CFO sale | **Not advanced** | — |
+| NTCT | Mid ≥2% | **3.82%** — passes | **Fails** — 0 buys, 18 sells over the trailing year | **Not advanced** | — |
+| ACIW | Mid ≥2% | **1.10%** — fails | **Fails** — $242.85K bought vs. $1.66M sold (net selling) | **Not advanced** | Historical CFPB enforcement action (unauthorized ACH mortgage-payment processing) found; dated, not confirmed current |
+| PLXS | Mid ≥2% | **1.78%** — fails | **Fails** — 0 buys, 44 sells, $5.4M in the last 90 days | **Not advanced** | — |
+| ARLO | Small ≥5% | Not obtained | **Fails** — 0 buys, 35 sells | **Not advanced** | — |
+| HLIT | Small ≥5% | **1.7-2.07%** (sources vary) — fails | Selling observed (SVP divested 19% of holding); no buying found | **Not advanced** | Historical securities-fraud investigation (Pomerantz, early 2025) tied to a guidance cut |
+| AGYS | Mid ≥2% | **31.56%** (single large holder, R. Andrew Cueva) — passes | CEO, CFO and GC all sold in Aug 2026; no buying found | **Not advanced** | — |
+| BDC | Mid ≥2% | Not obtained | **Marginal pass** — small routine ESPP purchases by 4 executives (~$21K each); one non-cash gift disposal, not a sale | **Not advanced on ownership data gap; closest to clearing of the 15** | — |
+
+## Why none of these are "quality rejections"
+
+Every one of these 15 passed Mini QBM on real operating evidence — beats, raised guidance, genuine business momentum in most cases. This screen doesn't say the businesses are bad; it says the specific, evidenced signal the investor asked for — insiders demonstrating real financial conviction through net buying — isn't present in this batch, full stop. BDC comes closest (small routine purchases, no disqualifying selling found), but "ESPP payroll deduction" is a materially weaker signal than genuine discretionary open-market buying, and calling that a pass would quietly redefine the rule rather than honor what was asked for.
+
+## What this means for the target portfolio
+
+**Eight Add-rated candidates now: BDC (Ready, no discount — the cleanest of the eight), CNXN and DLB (Ready with Considerations), AGYS (Ready with Considerations, pending a separate price-data conflict), NTCT and DGII (Await Better Entry — both fail the ATH rule), CTS (Await Better Entry, Medium-Low confidence), PI (Ready with Considerations, Low confidence — the most severe insider selling found in the batch).** None has a slot yet — the target portfolio is already 100% allocated across 6 holdings (MA 20%, LLY 15%, VCYT 15%, PTCT 15%, XNCR 15%, ACAD 10%), and Portfolio Concentration caps at 5-8 holdings. Per the Charter's Portfolio Philosophy ("every holding competes continuously for its place"), all eight join NEO, HRMY, KRYS and HQY as bench candidates — 12 in total — rather than being inserted automatically. Expanding to 7-8 holdings, or replacing an existing position, is a portfolio-construction decision for the investor. **BDC remains the single strongest bench candidate found across either scan.**
+
+**Final tally: 7 of 15 remain Not Advanced** (3 confirmed-failing ownership — ACIW, PLXS, HLIT; 2 more confirmed-failing ownership from the closed data gap — KN, ARLO; 2 blocked by independent litigation findings — RAL, CVLT). **8 of 15 now Advance:** BDC, NTCT, CTS, AGYS, DLB, CNXN, DGII, PI. Six of the eight carry an explicit, disclosed confidence discount for insider selling rather than being blocked by it — the point of demoting Gate 2 from a hard gate to a weighted one.

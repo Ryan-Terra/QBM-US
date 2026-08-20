@@ -23,7 +23,7 @@ This profile is independent of QBM's `UserProfile.md`. The investment objective,
 
 ## Portfolio philosophy
 
-- Preferred portfolio size: 4–6 high-conviction holdings.
+- Preferred portfolio size: 5–8 high-conviction holdings, each sized 10-20% in discrete 10/15/20% tiers, no position below 10% (Charter v1.3, 19 August 2026 — supersedes an earlier 4-6 holding guideline recorded here).
 - Concentration is preferred to excessive diversification.
 - Do not recommend investing merely because capital is available.
 - Do not force a recommendation or lower QBM-US standards to fill a portfolio.
@@ -46,6 +46,12 @@ Added 14 August 2026, following QBM-US's first Full QBM pass.
 - Avoid AI stocks and stocks materially affected by the AI industry — investor's personal view that current AI-infrastructure spending may be a bubble at risk of popping. Applied **broadly**: not just companies whose core product is AI (e.g. AI chip designers), but any company with material revenue or earnings exposure to the AI-infrastructure buildout, including semiconductor-equipment suppliers to AI chipmakers and hyperscalers whose capex or cloud revenue is substantially AI-driven.
 - This is a **portfolio-construction preference, not a quality judgment or a permanent ethical exclusion**. A company excluded here may have passed QBM-US's Company Quality/Investment Attractiveness assessment on the merits — the exclusion reflects the investor's own risk view on the AI theme, not a finding that the business is poor. Unlike the ethical exclusions above, this preference could reasonably change if the investor's view on AI-sector risk changes; it is not treated as permanent.
 - Where AI-industry exposure is indirect, partial or ambiguous, identify it clearly and disclose the judgment call rather than silently including or excluding the company.
+
+**Added 19-20 August 2026:**
+
+- **No crypto-related stocks.** Investor stated directly: not interested in any crypto-related stocks. Applied **broadly**, matching the AI exclusion's pattern: not just crypto exchanges or crypto-asset issuers, but any company whose revenue or earnings are materially exposed to cryptocurrency — bitcoin/crypto miners, crypto-mining infrastructure and hosting providers, crypto exchanges and brokerages, and companies holding cryptocurrency as a material treasury/balance-sheet asset.
+- Same status as the AI exclusion: a **portfolio-construction preference, not a permanent ethical exclusion** — reasonably revisable if the investor's view changes, unlike weapons/gambling/tobacco.
+- First applied retroactively to CleanSpark (CLSK), already excluded on AI-infrastructure-exposure grounds (19 Aug 2026 Tech Services scan) — now excluded on crypto grounds as well, an independent, sufficient reason on its own.
 
 ## Decision-making preferences
 
