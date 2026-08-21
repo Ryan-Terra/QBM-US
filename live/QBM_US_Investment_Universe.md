@@ -205,7 +205,7 @@ All 36 companies below have now completed Mini QBM — full detail: [screens/QBM
 | QBM-US-COMP-IDCC | InterDigital | IDCC | Communications Equipment | Profitable | Complete (Discovery only) |
 | QBM-US-COMP-DGII | Digi International | DGII | Communications Equipment | Profitable | Complete (Discovery only) |
 | QBM-US-COMP-PLXS | Plexus Corp. | PLXS | Electronic Manufacturing Services | Profitable | Complete (Discovery only) |
-| QBM-US-COMP-KN | Knowles Corporation | KN | Electronic Components | Profitable | Complete (Discovery only) |
+| QBM-US-COMP-KN | Knowles Corporation | KN | Electronic Components | Profitable | **Full QBM complete 20 Aug — Add. Await Better Entry** (fails the ATH rule, ~3% below its 52-week high). Near-miss ownership (1.7% vs. 2%); material selling (~$9M) partially offset by a genuine ~$423K insider buy (Insider Buying positive factor, v1.20). Confidence: Medium-Low. Bench. |
 | QBM-US-COMP-NTCT | NetScout Systems | NTCT | Communications Equipment | Profitable | Complete (Discovery only) |
 | QBM-US-COMP-ACIW | ACI Worldwide | ACIW | Application Software | Profitable | Complete (Discovery only) |
 | QBM-US-COMP-VNT | Vontier Corporation | VNT | Electronic Equipment & Instruments | Profitable | Complete (Discovery only) |
