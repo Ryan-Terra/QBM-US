@@ -27,3 +27,17 @@ Append-only. One Investment Committee Minute is appended for every completed Ful
 | 19 Aug 2026 | QBM-US-MINUTE-LGND-2026-08-19-001 | Ligand Pharmaceuticals (LGND) | Continue Monitoring |
 | 19 Aug 2026 | QBM-US-MINUTE-CON-2026-08-19-001 | Concentra Group Holdings (CON) | Continue Monitoring |
 | 19 Aug 2026 | QBM-US-MINUTE-INVA-2026-08-19-001 | Innoviva (INVA) | Continue Monitoring |
+| 20 Aug 2026 | QBM-US-MINUTE-BDC-2026-08-20-001 | Belden (BDC) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-NTCT-2026-08-20-001 | NetScout Systems (NTCT) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-CTS-2026-08-20-001 | CTS Corporation (CTS) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-AGYS-2026-08-20-001 | Agilysys (AGYS) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-DLB-2026-08-20-001 | Dolby Laboratories (DLB) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-CNXN-2026-08-20-001 | Connection (CNXN) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-DGII-2026-08-20-001 | Digi International (DGII) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-PI-2026-08-20-001 | Impinj (PI) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-KN-2026-08-20-001 | Knowles Corporation (KN) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-ARLO-2026-08-20-001 | Arlo Technologies (ARLO) | Add |
+| 20 Aug 2026 | QBM-US-MINUTE-PLXS-2026-08-20-001 | Plexus Corp. (PLXS) | Add |
+| 21 Aug 2026 | QBM-US-MINUTE-BHE-2026-08-21-001 | Benchmark Electronics (BHE) | Add |
+| 21 Aug 2026 | QBM-US-MINUTE-ROG-2026-08-21-001 | Rogers Corporation (ROG) | Add |
+| 21 Aug 2026 | QBM-US-MINUTE-SCSC-2026-08-21-001 | ScanSource, Inc. (SCSC) | Add |
