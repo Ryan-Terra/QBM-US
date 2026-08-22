@@ -86,3 +86,5 @@ Methodology version: **1.19**. Input: BHE, SCSC, ROG — the three Mini QBM Adva
 | SCSC | Add | Low | Tier 3 | 4.20% (Small, ≥5%) — Near-miss pass | Material ($10.59M/12mo, 0 buys) | Pass (14.4% below) | **Fail** (+24% vs. thin target) | **Await Better Entry** |
 
 **All three join the bench** (18 total, alongside NEO, HRMY, KRYS, HQY, BDC, NTCT, CTS, AGYS, DLB, CNXN, DGII, PI, KN, ARLO, PLXS) — none has a target-portfolio slot; the target portfolio remains 6 holdings, 100% allocated. **This is the Valuation Ceiling's first real Implementation Readiness consequence** — SCSC clears every other check (including the hard ATH floor) but is held to Await Better Entry specifically because of it, exactly the kind of case the rule was built to catch.
+
+**Re-verified 22 August 2026** against a single reproducible source (see [systematic price re-verification](QBM_US_PriceDataReverification_2026-08-22.md)) — all three ATH figures tightened slightly (BHE 27.7%, ROG 25.1% resolving its earlier disclosed conflict, SCSC 18.6%) but no conclusion above changed.

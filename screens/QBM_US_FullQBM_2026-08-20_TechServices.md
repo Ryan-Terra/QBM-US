@@ -84,6 +84,23 @@ Investor asked for methodology recommendations that either relax rules or raise 
 
 **Tech Services final tally, all four updates applied: 11 of 15 Advance** (BDC, NTCT, CTS, AGYS, DLB, CNXN, DGII, PI, KN, ARLO, PLXS). **4 remain Not Advanced:** ACIW and HLIT (confirmed-failing ownership even under the near-miss band), RAL and CVLT (independent securities-litigation findings, unrelated to the insider screen). None of the 11 has a target-portfolio slot — all join the bench alongside NEO, HRMY, KRYS and HQY, bringing the bench to **15 candidates**.
 
+## Fifth update, 22 August 2026: systematic price data re-verification (yfinance)
+
+Every ATH-proximity figure in this document was originally sourced via ad hoc web search across 20-21 August, pulled from whichever source a search engine happened to surface at that moment across two different working days — not one consistent, reproducible feed. A systematic re-check against a single source (Yahoo Finance historical price data via `yfinance`) on 22 August found real, decision-relevant discrepancies for four of the eleven Advance names — not just rounding differences:
+
+| Ticker | Original claim | Corrected (yfinance, 22 Aug) | Consequence |
+|---|---|---|---|
+| **DGII** | "Trading above its own 52-week high" — fails the ATH rule outright | $74.91 vs. $86.84 52-week high — **13.7% below**, clears the 10% band | ATH rule no longer fails. Readiness upgraded from Await Better Entry to **Ready with Considerations** — material CFO selling ($6.9M) remains the live caveat |
+| **KN** | "Only ~3% below, fails the ATH rule decisively" | $33.32 vs. $42.93 52-week high — **22.4% below**, clears with real room | ATH rule no longer fails. Readiness upgraded from Await Better Entry to **Ready with Considerations** — near-miss ownership and selling (partially offset by the disclosed insider buy) remain the live caveats |
+| **CTS** | "~4-6% below, fails the ATH rule" | $57.74 vs. $69.51 52-week high — **16.9% below**, clears | ATH rule no longer fails. Readiness upgraded from Await Better Entry to **Ready with Considerations** — material CEO selling ($8.48M) remains the live caveat |
+| **NTCT** | "7.1% below, fails the ATH rule" | $38.49 vs. $45.28 52-week high — **15.0% below**, clears | ATH rule no longer fails. Ownership and selling were already clean — Readiness upgraded all the way to **Ready**, no discount |
+
+Every other Advance name's figure was re-checked against the same source. Most were close enough to change nothing, but two are worth naming because the *margin* mattered even though the *conclusion* didn't: **DLB is only 11.7% below its high (was estimated ~21%)** — still clears, but far more narrowly than the original "Medium confidence, live-price-pending" framing implied; **PLXS is 21.8% below (was 10.85%)** — the opposite correction, comfortably clear rather than the "narrow, watch closely" clearance originally recorded. CNXN (11.5%, was 11.1%), AGYS (21.7%, was an unresolved ~26% estimate — now resolved), PI (33.0%, was ~25%), ARLO (34.3%, was 31.9%) and BDC (23.4%, was 19.9%) all moved a few points without changing anything.
+
+**Root cause and standing fix:** see [Methodology v1.22, Primary Price Data Source](../framework/QBM_US_Methodology.md#primary-price-data-source-added-v122) — mechanical price checks (ATH Proximity Rule, Valuation Ceiling, momentum figures) now require a single reproducible source, not general web search.
+
+**Revised current state:** still 11 of 15 Advance — no Advance/Not-Advanced status changed, only Implementation Readiness within the Advance group. **NTCT is now the cleanest name in the batch — fully Ready, no discount — alongside BDC.** Three more (DGII, KN, CTS) move from Await Better Entry to Ready with Considerations.
+
 ## Full results — all 15
 
 | Ticker | Tier / ownership threshold | Ownership found | Net buying (6mo) | Result | Notable adverse finding |
@@ -110,6 +127,6 @@ Every one of these 15 passed Mini QBM on real operating evidence — beats, rais
 
 ## What this means for the target portfolio
 
-**Superseded by the Fourth update above (near-miss ownership provision, Methodology v1.16).** As of 20 August 2026, **eleven Add-rated candidates: BDC (Ready, no discount — the cleanest of the eleven), CNXN, DLB, ARLO and PI (Ready with Considerations), AGYS (Ready with Considerations, pending a separate price-data conflict), NTCT, DGII and KN (Await Better Entry — all three fail the ATH rule), CTS (Await Better Entry, Medium-Low confidence).** None has a slot yet — the target portfolio is already 100% allocated across 6 holdings (MA 20%, LLY 15%, VCYT 15%, PTCT 15%, XNCR 15%, ACAD 10%), and Portfolio Concentration caps at 5-8 holdings. Per the Charter's Portfolio Philosophy ("every holding competes continuously for its place"), all eleven join NEO, HRMY, KRYS and HQY as bench candidates — **15 in total** — rather than being inserted automatically. Expanding to 7-8 holdings, or replacing an existing position, is a portfolio-construction decision for the investor. **BDC remains the single strongest bench candidate found across either scan.**
+**Superseded by the Fifth update above (systematic price re-verification, 22 August 2026).** As of 22 August 2026, **eleven Add-rated candidates: BDC and NTCT (Ready, no discount), CNXN, DLB, ARLO, PI, DGII, KN and CTS (Ready with Considerations), AGYS (Ready with Considerations, pending a separate price-data conflict).** None has a slot in the (now 8-holding) target portfolio — BDC did receive one, in the 21 August expansion; the remaining ten sit on the bench. Per the Charter's Portfolio Philosophy ("every holding competes continuously for its place"), all ten join NEO, HRMY, KRYS and HQY as bench candidates. **NTCT and BDC are the two strongest bench candidates found across either scan** — both fully clean, no confidence discount.
 
 **Final tally: 4 of 15 remain Not Advanced** (ACIW, HLIT — confirmed-failing ownership even under the near-miss band; RAL, CVLT — blocked by independent litigation findings). **11 of 15 now Advance:** BDC, NTCT, CTS, AGYS, DLB, CNXN, DGII, PI, KN, ARLO, PLXS. Eight of the eleven carry an explicit, disclosed confidence discount for insider selling and/or near-miss ownership rather than being blocked by it — the point of demoting Gate 2 to a weighted factor and adding Gate 1's near-miss provision.
